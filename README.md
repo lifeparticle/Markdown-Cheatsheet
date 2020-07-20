@@ -19,18 +19,17 @@
 2. Table without header
 
 <table>
-    <tr>
-        <td width="33%" style="background-color:red
-							   ;">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum mattis 						ullamcorper velit sed ullamcorper. Risus feugiat in ante metus dictum at tempor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant 				morbi tristique. 
-        </td>
-        <td width="33%">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum mattis 						ullamcorper velit sed ullamcorper. Risus feugiat in ante metus dictum at tempor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant 				morbi tristique. 
-        </td>
-        <td width="33%">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum mattis 						ullamcorper velit sed ullamcorper. Risus feugiat in ante metus dictum at tempor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant 				morbi tristique. 
-        </td>
-    </tr>
+<tr>
+<td width="33%"">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum mattis 						ullamcorper velit sed ullamcorper. Risus feugiat in ante metus dictum at tempor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant 				morbi tristique. 
+</td>
+<td width="33%">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum mattis 						ullamcorper velit sed ullamcorper. Risus feugiat in ante metus dictum at tempor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant 				morbi tristique. 
+</td>
+<td width="33%">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum mattis 						ullamcorper velit sed ullamcorper. Risus feugiat in ante metus dictum at tempor. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant 				morbi tristique. 
+</td>
+</tr>
 </table>
 
 3. Comment
