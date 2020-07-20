@@ -38,6 +38,7 @@ Markdown Cheatsheet
 
 [//]: # (Lorem ipsum dolor sit amet)
 
+
 # Resources
 1. [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [table-magic](https://stevecat.net/table-magic/#)
