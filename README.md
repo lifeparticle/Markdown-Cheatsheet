@@ -1,5 +1,4 @@
 # Markdown-Cheatsheet
-Markdown Cheatsheet
 
 1. Left, Center and Right Align
 
