@@ -35,6 +35,7 @@ Markdown Cheatsheet
 </table>
 
 3. Comment
+
 [//]: # (Lorem ipsum dolor sit amet)
 
 # Resources
