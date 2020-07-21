@@ -36,6 +36,21 @@
 
 2. Table without header
 
+```
+<table>
+<tr>
+<td width="33%"">
+...
+</td>
+<td width="33%">
+...
+</td>
+<td width="33%">
+...
+</td>
+</tr>
+</table>
+```
 <table>
 <tr>
 <td width="33%"">
