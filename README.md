@@ -77,8 +77,147 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 -->
 
+4. Headings
+
+<table>
+<tr>
+<td>
+<h1>Heading 1</h1>
+</td>
+<td>
+<h2>Heading 2</h2>
+</td>
+<td>
+<h3>Heading 3</h3>
+</td>
+<td>
+<h4>Heading 4</h1>
+</td>
+<td>
+<h5>Heading 5</h5>
+</td>
+</tr>
+
+<tr>
+<td>
+  
+```
+<h1>Heading 1</h1>
+```
+</td>
+<td>
+  
+```
+<h2>Heading 2</h2>
+```
+</td>
+<td>
+  
+```
+<h3>Heading 3</h3>
+```
+</td>
+<td>
+  
+```
+<h4>Heading 4</h4>
+```
+</td>
+<td>
+  
+```
+<h5>Heading 5</h5>
+```
+</td>
+</tr>
+
+<tr>
+<td>
+  
+# Heading 1
+</td>
+<td>
+  
+## Heading 2
+</td>
+<td>
+  
+### Heading 3
+</td>
+<td>
+  
+#### Heading 4
+</td>
+<td>
+  
+##### Heading 5
+</td>
+</tr>
+
+<tr>
+<td>
+  
+```
+# Heading 1
+```
+</td>
+<td>
+  
+```
+## Heading 2
+```
+</td>
+<td>
+  
+```
+### Heading 3
+```
+</td>
+<td>
+  
+```
+#### Heading 4
+```
+</td>
+<td>
+  
+```
+##### Heading 5
+```
+</td>
+</tr>
+</table>
+
+
+
+
+
+5. Boxed Text
+<table><tr><td>Boxed text</td></tr></table>
+
+```
+<table><tr><td>Boxed text</td></tr></table>
+```
+
+6. Monospaced text
+
+<samp>Monospaced text</samp>
+
+```
+<samp>Monospaced text</samp>
+```
+
+7. Underlined text
+
+<ins>Underlined text</ins>
+
+```
+<ins>Underlined text</ins>
+```
 
 # Resources
 1. [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [table-magic](https://stevecat.net/table-magic/#)
 3. [HTML whitelist](https://github.com/github/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb)
+4. [Markdown-Hacks](https://github.com/hemangsk/Markdown-Hacks)
+5. [github-markdown-hacks](https://github.com/shaunlebron/github-markdown-hacks)
