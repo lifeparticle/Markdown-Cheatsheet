@@ -68,10 +68,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 3. Comment
 
 ```
-[//]: # (Lorem ipsum dolor sit amet)
+<!--
+Lorem ipsum dolor sit amet
+-->
 ```
 
-[//]: # (Lorem ipsum dolor sit amet)
+<!--
+Lorem ipsum dolor sit amet
+-->
 
 
 # Resources
