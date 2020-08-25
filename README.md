@@ -215,6 +215,52 @@ Lorem ipsum dolor sit amet
 <ins>Underlined text</ins>
 ```
 
+8. Display tables side by side
+
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
+
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></tr> </table>
+
+```
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
+
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></tr> </table>
+```
+
 # Resources
 1. [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [table-magic](https://stevecat.net/table-magic/#)
