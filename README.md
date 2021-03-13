@@ -63,12 +63,15 @@ Blockquotes
 > **The quick brown fox** *jumps over the lazy dog.*
 
 Monospaced
+
 <samp>The quick brown fox jumps over the lazy dog.</samp>
 
 Underlined
+
 <ins>The quick brown fox jumps over the lazy dog.</ins>
 
 Strike-through
+
 ~~The quick brown fox jumps over the lazy dog.~~
 
 
