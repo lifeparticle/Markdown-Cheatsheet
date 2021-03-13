@@ -77,6 +77,9 @@ Strike-through
 
 Boxed
 
+<table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
+
+
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
