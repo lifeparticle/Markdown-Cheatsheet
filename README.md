@@ -1,5 +1,8 @@
 # The-Ultimate-Markdown-Cheat-Sheet
 
+
+# Headings
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -16,3 +19,21 @@ Heading 1
 =
 Heading 2
 -
+
+# Text styles
+
+# Syntax Highlighting
+
+# Alignments
+
+# Tables
+
+# Links
+
+# Images
+
+# Lists
+
+# Horizontal Rule
+
+# Miscellaneous
