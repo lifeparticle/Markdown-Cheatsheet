@@ -45,6 +45,7 @@ Bold and Italic
 
 **_The quick brown fox jumps over the lazy dog._**
 
+<strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 
 Blockquotes
 
