@@ -89,6 +89,11 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
 # Syntax Highlighting
 
+```
+public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+```
+
+
 ```java
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
