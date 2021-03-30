@@ -167,7 +167,23 @@ The quick brown fox jumps over the lazy dog.
 
 # Links
 
+```
+[The-Ultimate-Markdown-Cheat-Sheet (https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
+```
+
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
+
+```
+[The-Ultimate-Markdown-Cheat-Sheet][reference text]
+
+[The-Ultimate-Markdown-Cheat-Sheet][1]
+
+[Markdown-Cheat-Sheet]
+
+[reference text]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
+[1]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
+[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
+```
 
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
 
@@ -181,15 +197,53 @@ The quick brown fox jumps over the lazy dog.
 
 # Images
 
+```
+![alt text](https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
+```
+
 ![alt text](https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
 
+```
+![alt text][image]
+
+[image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
+```
 ![alt text][image]
 
 [image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
 
+```
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+```
+
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 
 # Lists
+
+```
+1. One
+2. Two
+3. Three
+```
+
+1. One
+2. Two
+3. Three
+
+```
+* 1
+* 2
+* 3
+
++ 1
++ 2
++ 3
+
+
+- 1
+- 2
+- 3
+```
 
 * 1
 * 2
