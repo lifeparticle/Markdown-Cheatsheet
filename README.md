@@ -232,7 +232,6 @@ The quick brown fox jumps over the lazy dog.
 
 ```
 1. One
-1. One
     1. First level
         - Second level
             - Third level
@@ -242,7 +241,6 @@ The quick brown fox jumps over the lazy dog.
     1. Sub-item
 ```
 
-1. One
 1. One
     1. First level
         - Second level
