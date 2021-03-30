@@ -246,11 +246,12 @@ The quick brown fox jumps over the lazy dog.
 4. Three
     3.1 Sub-item
 
+
 1. One
    - Sub-item
 2. Two
     - Sub-item
-4. Three
+3. Three
     - Sub-item
 
 ```
