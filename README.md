@@ -167,6 +167,12 @@ The quick brown fox jumps over the lazy dog.
 
 # Links
 
+[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
+
+
+[The-Ultimate-Markdown-Cheat-Sheet][reference text]
+[reference text]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
+
 # Images
 
 # Lists
