@@ -232,51 +232,53 @@ The quick brown fox jumps over the lazy dog.
 
 ```
 1. One
-  1. Sub-item
+    1. Sub-item
 2. Two
-  1. Sub-item
+    1. Sub-item
 3. Three
-  1. Sub-item
+    1. Sub-item
 ```
 
 1. One
-  1. Sub-item
+    1. Sub-item
 2. Two
-  1. Sub-item
+    1. Sub-item
 3. Three
-  1. Sub-item
+    1. Sub-item
     
 ```
 1. One
-  1.1. Sub-item
+    1.1. Sub-item
 2. Two
-  2.1. Sub-item
+    2.1. Sub-item
 3. Three
-  3.1. Sub-item
+    3.1. Sub-item
 ```
 
 1. One
-  1.1. Sub-item
+    1.1. First level
+        - Second level
+            - Third level
 2. Two
-  2.1. Sub-item
+    2.1. Sub-item
 3. Three
-  3.1. Sub-item
+    3.1. Sub-item
 
 ```
 1. One
-  1.1. Sub-item
+    1.1. Sub-item
 2. Two
-  2.1. Sub-item
+    2.1. Sub-item
 3. Three
-  3.1. Sub-item
+    3.1. Sub-item
 ```
 
 1. One
-  - Sub-item
+    - Sub-item
 2. Two
-  - Sub-item
+    - Sub-item
 3. Three
-  - Sub-item
+    - Sub-item
 
 ```
 * 1
