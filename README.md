@@ -271,10 +271,9 @@ The quick brown fox jumps over the lazy dog.
 
 1. One
     1.1. Sub-item
-  
+    1.2. Sub-item
 2. Two
     2.1. Sub-item
-    
 3. Three
     3.1. Sub-item
 
@@ -321,6 +320,19 @@ The quick brown fox jumps over the lazy dog.
 - 1
 - 2
 - 3
+
+
+```
+- One
+    - First level
+        - Second level
+            - Third level
+```
+
+- One
+    - First level
+        - Second level
+            - Third level
 
 # Horizontal Rule
 
