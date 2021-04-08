@@ -231,24 +231,25 @@ The quick brown fox jumps over the lazy dog.
 3. Three
 
 ```
-1. One
-    1. First level
-        - Second level
-            - Third level
-2. Two
-    1. Sub-item
-3. Three
-    1. Sub-item
+1. First level
+    1. Second level
+        - Third level
+            - Fourth level
+2. First level
+    1. Second level
+3. First level
+    1. Second level
 ```
 
-1. One
-    1. First level
-        - Second level
-            - Third level
-2. Two
-    1. Sub-item
-3. Three
-    1. Sub-item
+
+1. First level
+    1. Second level
+        - Third level
+            - Fourth level
+2. First level
+    1. Second level
+3. First level
+    1. Second level
     
 
 
@@ -282,24 +283,24 @@ The quick brown fox jumps over the lazy dog.
 
 
 ```
-- 1
-    - First level
-        - Second level
-            - Third level
-- 2
-    - Sub-item
-- 3
-    - Sub-item
+- First level
+    - Second level
+        - Third level
+            - Fourth level
+- First level
+    - Second level
+- First level
+    - Second level
 ```
 
-- 1
-    - First level
-        - Second level
-            - Third level
-- 2
-    - Sub-item
-- 3
-    - Sub-item
+- First level
+    - Second level
+        - Third level
+            - Fourth level
+- First level
+    - Second level
+- First level
+    - Second level
 
 ```
 - [x] Fix Bug 223
