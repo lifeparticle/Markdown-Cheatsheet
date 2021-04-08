@@ -301,6 +301,16 @@ The quick brown fox jumps over the lazy dog.
 - 3
     - Sub-item
 
+```
+- [x] Fix Bug 223
+- [ ] Add Feature 33
+- [ ] Add unit tests
+```
+
+- [x] Fix Bug 223
+- [ ] Add Feature 33
+- [ ] Add unit tests
+
 
 # Horizontal Rule
 
