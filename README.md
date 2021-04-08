@@ -315,4 +315,11 @@ The quick brown fox jumps over the lazy dog.
 
 # Horizontal Rule
 
+```
+---
+```
+
+---
+
+
 # Miscellaneous
