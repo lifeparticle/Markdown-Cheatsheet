@@ -263,12 +263,12 @@ Default    | Left align | Center align | Right align
 ```
 | A | B | C |
 |---|---|---|
-| 1 | 2 | 3 <br /> 4 <br /> 5 |
+| 1 | 2 | 3 <br/> 4 <br/> 5 |
 ```
 
 | A | B | C |
 |---|---|---|
-| 1 | 2 | 3 <br /> 4 <br /> 5 |
+| 1 | 2 | 3 <br/> 4 <br/> 5 |
 
 # Links
 
