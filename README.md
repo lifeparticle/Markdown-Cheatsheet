@@ -300,6 +300,13 @@ Default    | Left align | Center align | Right align
 [1]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 [Markdown-Cheat-Sheet]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 
+
+```
+[Example of a relative link](rl.md)
+```
+
+[Example of a relative link](rl.md)
+
 # Images
 
 ```
