@@ -408,6 +408,22 @@ Default    | Left align | Center align | Right align
     - Second level
 
 ```
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
+```
+
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
+
+```
 - [x] Fix Bug 223
 - [ ] Add Feature 33
 - [ ] Add unit tests
