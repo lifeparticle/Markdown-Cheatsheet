@@ -308,7 +308,7 @@ Default    | Left align | Center align | Right align
 [Example of a relative link](rl.md)
 
 
-<https://github.com/>
+Visit https://github.com/
 
 # Images
 
