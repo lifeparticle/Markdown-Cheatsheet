@@ -165,7 +165,7 @@ The quick brown fox jumps over the lazy dog.
 </tr>
 </table>
 
-We can use colons to align columns. For left-align text use a colon to the left of dashes, for center-align use colon to the both side of dashes and for right-align use a colon to the right of dashes. By default Left align is used.
+
 
 ```
 | Default | Left align | Center align | Right align |
@@ -215,6 +215,50 @@ Default    | Left align | Center align | Right align
 99999999   | 99999999   | 99999999     | 99999999   
 9999999    | 9999999    | 9999999      | 9999999 
 
+
+```
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
+
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></tr> </table>
+```
+
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
+
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></tr> </table>
 
 # Links
 
