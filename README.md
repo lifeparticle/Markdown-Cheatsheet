@@ -38,6 +38,20 @@ Heading 2
 
 # Text styles
 
+```
+Bold
+**The quick brown fox jumps over the lazy dog.**
+__The quick brown fox jumps over the lazy dog.__
+<strong>The quick brown fox jumps over the lazy dog.</strong>
+Italic
+*The quick brown fox jumps over the lazy dog.*
+_The quick brown fox jumps over the lazy dog._
+<em>The quick brown fox jumps over the lazy dog.</em>
+Bold and Italic
+**_The quick brown fox jumps over the lazy dog._**
+<strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
+```
+
 The quick brown fox jumps over the lazy dog.
 
 Bold
