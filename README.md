@@ -3,11 +3,27 @@
 
 # Headings
 
+```
 # Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ##### Heading 5
+```
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+
+```
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+```
 
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
@@ -131,6 +147,12 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 <p align="right">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
+
+```
+<h3 align="center"> My latest Medium posts </h3>
+```
+
+<h3 align="center"> My latest Medium posts </h3>
 
 
 # Tables
