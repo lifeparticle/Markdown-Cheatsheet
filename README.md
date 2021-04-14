@@ -65,6 +65,19 @@ Bold and Italic
 
 Blockquotes
 
+```
+> The quick brown fox jumps over the lazy dog.
+> The quick brown fox jumps over the lazy dog.
+> 
+> The quick brown fox jumps over the lazy dog.
+> 
+> The quick brown fox jumps over the lazy dog.
+> The quick brown fox jumps over the lazy dog.
+>> The quick brown fox jumps over the lazy dog.
+>>> The quick brown fox jumps over the lazy dog.
+> **The quick brown fox** *jumps over the lazy dog.*
+```
+
 > The quick brown fox jumps over the lazy dog.
 
 > The quick brown fox jumps over the lazy dog.
@@ -79,6 +92,17 @@ Blockquotes
 
 > **The quick brown fox** *jumps over the lazy dog.*
 
+```
+Monospaced
+<samp>The quick brown fox jumps over the lazy dog.</samp>
+
+Underlined
+<ins>The quick brown fox jumps over the lazy dog.</ins>
+
+Strike-through
+~~The quick brown fox jumps over the lazy dog.~~
+```
+
 Monospaced
 
 <samp>The quick brown fox jumps over the lazy dog.</samp>
@@ -91,11 +115,19 @@ Strike-through
 
 ~~The quick brown fox jumps over the lazy dog.~~
 
+```
+Boxed
+<table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
+```
 
 Boxed
 
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 
+```
+Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
+Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
+```
 
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 
