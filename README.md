@@ -341,7 +341,7 @@ Default    | Left align | Center align | Right align
 # Links
 
 ```
-[The-Ultimate-Markdown-Cheat-Sheet (https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
+[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 ```
 
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
@@ -353,9 +353,9 @@ Default    | Left align | Center align | Right align
 
 [Markdown-Cheat-Sheet]
 
-[reference text]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
-[1]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
-[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
+[reference text]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[1]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/Markdown-Cheatsheet
 ```
 
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
