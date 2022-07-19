@@ -531,6 +531,21 @@ ___
 
 ___
 
+# Diagrams (19 July 2022)
+
+
+pie
+"Movies" : 80
+"TV shows" : 20
+
+```mermaid
+pie
+"Movies" : 80
+"TV shows" : 20
+```
+
+# Mathematical expressions (19 July 2022)
+
 
 # Miscellaneous
 
