@@ -534,10 +534,14 @@ ___
 # Diagrams (19 July 2022)
 
 
+
+```
 pie
 "Movies" : 80
 "TV shows" : 20
+```
 
+          
 ```mermaid
 pie
 "Movies" : 80
