@@ -534,7 +534,6 @@ ___
 # Diagrams (19 July 2022)
 
 
-
 ```
 pie
 "Movies" : 80
@@ -550,7 +549,21 @@ pie
 
 # Mathematical expressions (19 July 2022)
 
+```
+This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+          
+This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+          
+```
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+```
 
+$$
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$$
+       
+          
 # Miscellaneous
 
 <!--
