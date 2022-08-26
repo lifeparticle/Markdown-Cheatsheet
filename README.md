@@ -138,6 +138,13 @@ Boxed
 
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 
+
+```
+2 <sup>53-1</sup> and -2 <sup>53-1</sup> 
+```
+
+2 <sup>53-1</sup> and -2 <sup>53-1</sup> 
+
 ```
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
