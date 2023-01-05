@@ -576,6 +576,31 @@ Visit https://github.com/
 - [ ] Add Feature 33
 - [ ] Add unit tests
 
+# Buttons
+
+```
+<kbd>cmd + shift + p</kbd>
+```
+
+<kbd>cmd + shift + p</kbd>
+
+```
+<kbd> <br> cmd + shift + p <br> </kbd>
+```
+
+<kbd> <br> cmd + shift + p <br> </kbd>
+
+```
+<kbd>[Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
+```
+
+<kbd>[Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
+
+```
+[<kbd>Markdown-Cheatsheet</kbd>](https://github.com/lifeparticle/Markdown-Cheatsheet)
+```
+
+[<kbd>Markdown-Cheatsheet</kbd>](https://github.com/lifeparticle/Markdown-Cheatsheet)
 
 # Horizontal Rule
 
