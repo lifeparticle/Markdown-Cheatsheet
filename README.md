@@ -1,5 +1,33 @@
 [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
 
+- [Headings](#headings)
+- [Heading 1](#heading-1)
+	* [Heading 2](#heading-2)
+		+ [Heading 3](#heading-3)
+			- [Heading 4](#heading-4)
+				* [Heading 5](#heading-5)
+- [Heading 1](#heading-1)
+	* [Heading 2](#heading-2)
+		+ [Heading 3](#heading-3)
+			- [Heading 4](#heading-4)
+				* [Heading 5](#heading-5)
+- [Heading 1](#heading-1)
+	* [Heading 2](#heading-2)
+- [Text styles](#text-styles)
+- [Syntax Highlighting](#syntax-highlighting)
+- [Alignments](#alignments)
+		+ [My latest Medium posts](#my-latest-medium-posts)
+- [Tables](#tables)
+- [Links](#links)
+- [Images](#images)
+- [Lists](#lists)
+- [Buttons](#buttons)
+- [Horizontal Rule](#horizontal-rule)
+- [Diagrams (19 July 2022)](#diagrams-19-july-2022)
+- [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
+- [Miscellaneous](#miscellaneous)
+- [Hash symbol](#hash-symbol)
+
 
 # Headings
 
