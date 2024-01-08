@@ -701,7 +701,43 @@ x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 $$
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 $$
-       
+
+# Alerts (8 January 2024)
+
+
+```
+> [!NOTE]  
+> Essential details that users should not overlook, even when browsing quickly.
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+> [!IMPORTANT]  
+> Vital information required for users to attain success.
+
+> [!WARNING]  
+> Urgent content that requires immediate user focus due to possible risks.
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+```
+
+
+> [!NOTE]  
+> Essential details that users should not overlook, even when browsing quickly.
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+> [!IMPORTANT]  
+> Vital information required for users to attain success.
+
+> [!WARNING]  
+> Urgent content that requires immediate user focus due to possible risks.
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+
           
 # Miscellaneous
 
