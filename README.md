@@ -810,6 +810,7 @@ _   Underscore
 
 :octocat:
 
+[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ```
 @lifeparticle
@@ -823,5 +824,15 @@ _   Underscore
 
 \#
 
+Back to top
+
+First place the following code at start of your markdown file
+
+```
+<a name="top"/>
+```
+
+Then use one of the following code at the place you want to return to top.
 
 [Back to top](#top)
+[:arrow_up:](#top)
