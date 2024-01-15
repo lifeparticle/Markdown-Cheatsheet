@@ -835,4 +835,12 @@ First place the following code at start of your markdown file
 Then use one of the following code at the place you want to return to top.
 
 [Back to top](#top)
+
 [:arrow_up:](#top)
+
+
+```
+[Back to top](#top)
+
+[:arrow_up:](#top)
+```
