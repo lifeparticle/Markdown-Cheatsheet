@@ -1,5 +1,11 @@
 <a name="top"></a>
 
+<div align="center">
+:black_circle: The Ultimate Markdown Cheat Sheet :black_circle:
+</div>
+
+<br/>
+
 Markdown is a method for writing formatted text using a simple plain text format. This guide will provide you with a comprehensive understanding of the key commands in Markdown, aimed at enhancing your GitHub README.
 
 You can read the full article on [Medium](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0), but here's a brief overview of the most popular commands.
