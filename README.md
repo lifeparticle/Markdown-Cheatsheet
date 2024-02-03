@@ -1,6 +1,9 @@
 <a name="top"/>
 
-[The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
+Markdown is a method for writing formatted text using a simple plain text format. This guide will provide you with a comprehensive understanding of the key commands in Markdown, aimed at enhancing your GitHub README. 
+
+You can read the full article on [Medium](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0), but here's a brief overview of the most popular commands.
+
 
 - [Headings](#headings)
 - [Heading 1](#heading-1)
@@ -41,11 +44,11 @@
 ##### Heading 5
 ```
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
+ # Heading 1
+ ## Heading 2
+ ### Heading 3
+ #### Heading 4
+ ##### Heading 5
 
 ```
 <h1>Heading 1</h1>
@@ -634,7 +637,6 @@ Visit https://github.com/
 
 # Collapsible items (28 July 2023)
 
-
 ```
 <details>
   <summary>Markdown</summary>
@@ -705,7 +707,6 @@ x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 $$
 
 # Alerts (8 January 2024)
-
 
 ```
 > [!NOTE]  
