@@ -44,11 +44,11 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 ##### Heading 5
 ```
 
-- # Heading 1
-- ## Heading 2
-- ### Heading 3
-- #### Heading 4
-- ##### Heading 5
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
 
 ```
 <h1>Heading 1</h1>
