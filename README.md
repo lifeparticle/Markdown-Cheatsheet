@@ -21,7 +21,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Alerts (8 January 2024)](#alerts-8-january-2024)
 - [Miscellaneous](#miscellaneous)
 - [Hash symbol](#hash-symbol)
-
+- [Tools](#tools)
 
 # Headings
 
@@ -834,3 +834,11 @@ Then use one of the following code at the place you want to return to top.
 
 [:arrow_up:](#top)
 ```
+
+# Tools
+
+1. Create a Markdown table of content - [binarytree](https://binarytree.dev/markdown/toc), [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
+2. Create an empty Markdown table - [Tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
+3. Convert Excel to Markdown table - [Tableconvert](https://tableconvert.com/)
+4. Markdown preview for Sublime Text 3 - [Packagecontrol](https://packagecontrol.io/packages/MarkdownPreview)
+5. Markdown preview Visual Studio Code - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
