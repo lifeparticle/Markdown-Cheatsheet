@@ -7,7 +7,7 @@
 <br/>
 
 > [!IMPORTANT]
-> Check out the official documentation on GitHub  to learn more about writing and formatting syntax on GitHub for up-to-date information!
+> Check out the official documentation on [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn more about writing and formatting syntax.
 
 Markdown is a method for writing formatted text using a simple plain text format. This guide will provide you with a comprehensive understanding of the key commands in Markdown, aimed at enhancing your GitHub README.
 
