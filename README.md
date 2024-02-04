@@ -57,14 +57,21 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 <h5>Heading 5</h5>
 ```
 
+<!-- omit in toc --> 
 <h1>Heading 1</h1>
+<!-- omit in toc --> 
 <h2>Heading 2</h2>
+<!-- omit in toc --> 
 <h3>Heading 3</h3>
+<!-- omit in toc --> 
 <h4>Heading 4</h4>
+<!-- omit in toc --> 
 <h5>Heading 5</h5>
 
+<!-- omit in toc --> 
 Heading 1
 =
+<!-- omit in toc --> 
 Heading 2
 -
 
