@@ -186,17 +186,22 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
 # Syntax Highlighting
 
+## Inline code
+
 A class method is an instance method of the class object. When a new class is created, an object of type `Class` is initialized and assigned to a global constant (Mobile in this case).
 
+
+## Code block
 
 ```
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
-
 
 ```java
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
+
+Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml) and [this](https://github.com/github-linguist/linguist/tree/master/vendor) GitHub document to find all the valid keywords.
 
 # Alignments
 ```
@@ -508,8 +513,6 @@ Visit https://github.com/
 2. Two
 3. Three
 
-## Unordered
-
 ```
 1. First level
     1. Second level
@@ -531,7 +534,7 @@ Visit https://github.com/
 3. First level
     1. Second level
     
-
+## Unordered
 
 ```
 * 1
