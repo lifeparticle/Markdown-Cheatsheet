@@ -746,9 +746,20 @@ $$
           
 # Miscellaneous
 
+## Comments
+
 <!--
 Lorem ipsum dolor sit amet
 -->
+
+```
+<!--
+Lorem ipsum dolor sit amet
+-->
+```
+## Escaping Markdown Characters
+
+Before escaping
 
 ```
 *   Asterisk
@@ -778,6 +789,7 @@ _   Underscore`
 []  Square brackets
 _   Underscore
 
+After escaping
 
 ```
 \*   Asterisk
@@ -806,6 +818,8 @@ _   Underscore
 \+   Plus symbol
 \[]  Square brackets
 \_   Underscore
+
+## Emojis
 
 ```
 :octocat:
@@ -815,11 +829,15 @@ _   Underscore
 
 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
+## Mention a person or team 
+
 ```
 @lifeparticle
 ```
 
 @lifeparticle
+
+##  Issues and pull requests
 
 ```
 #
@@ -827,7 +845,8 @@ _   Underscore
 
 \#
 
-Back to top
+## Back to top
+
 
 First place the following code at start of your markdown file
 
