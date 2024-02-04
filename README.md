@@ -13,7 +13,6 @@ Markdown is a method for writing formatted text using a simple plain text format
 
 You can read the full article on [Medium](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0), but here's a brief overview of the most popular commands.
 
-
 - [Headings](#headings)
 - [Text styles](#text-styles)
 - [Syntax Highlighting](#syntax-highlighting)
@@ -45,6 +44,8 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 	* [Mention a person or team](#mention-a-person-or-team)
 	* [Issues and pull requests](#issues-and-pull-requests)
 	* [Back to top](#back-to-top)
+- [Bitbucket](#bitbucket)
+- [Azure DevOps Project wiki](#azure-devops-project-wiki)
 - [Tools](#tools)
 
 # Headings
@@ -907,6 +908,14 @@ Then use one of the following code at the place you want to return to top.
 
 [:arrow_up:](#top)
 ```
+
+# Bitbucket
+
+Bitbucket Supported Markdown for [READMEs](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html). Also, create a [table of contents](https://support.atlassian.com/bitbucket-cloud/docs/add-a-table-of-contents-to-a-wiki/).
+
+# Azure DevOps Project wiki
+
+Azure DevOps Supported Markdown for [Project wiki](https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops).
 
 # Tools
 
