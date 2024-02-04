@@ -496,6 +496,8 @@ Visit https://github.com/
 
 # Lists
 
+## Ordered
+
 ```
 1. One
 2. Two
@@ -505,6 +507,8 @@ Visit https://github.com/
 1. One
 2. Two
 3. Three
+
+## Unordered
 
 ```
 1. First level
