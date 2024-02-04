@@ -1,8 +1,8 @@
 <a name="top"></a>
 
-<div align="center">
+<h1 align="center">
 :black_circle: The Ultimate Markdown Cheat Sheet :black_circle:
-</div>
+</h1>
 
 <br/>
 
