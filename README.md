@@ -25,6 +25,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Lists](#lists)
 	* [Ordered](#ordered)
 	* [Unordered](#unordered)
+	* [Task](#task)
 - [Buttons](#buttons)
 - [Collapsible items (28 July 2023)](#collapsible-items-28-july-2023)
 - [Horizontal Rule](#horizontal-rule)
@@ -622,6 +623,8 @@ Visit https://github.com/
 <li>Third item</li>
 <li>Fourth item</li>
 </ul>
+
+## Task
 
 ```
 - [x] Fix Bug 223
