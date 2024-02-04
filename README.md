@@ -12,13 +12,16 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 
 
 - [Headings](#headings)
-- [Text styles](#text-styles)
 - [Syntax Highlighting](#syntax-highlighting)
+	* [Inline code](#inline-code)
+	* [Code block](#code-block)
 - [Alignments](#alignments)
 - [Tables](#tables)
 - [Links](#links)
 - [Images](#images)
 - [Lists](#lists)
+	* [Ordered](#ordered)
+	* [Unordered](#unordered)
 - [Buttons](#buttons)
 - [Collapsible items (28 July 2023)](#collapsible-items-28-july-2023)
 - [Horizontal Rule](#horizontal-rule)
@@ -26,7 +29,12 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
 - [Alerts (8 January 2024)](#alerts-8-january-2024)
 - [Miscellaneous](#miscellaneous)
-- [Hash symbol](#hash-symbol)
+	* [Comments](#comments)
+	* [Escaping Markdown Characters](#escaping-markdown-characters)
+	* [Emojis](#emojis)
+	* [Mention a person or team](#mention-a-person-or-team)
+	* [Issues and pull requests](#issues-and-pull-requests)
+	* [Back to top](#back-to-top)
 - [Tools](#tools)
 
 # Headings
@@ -249,8 +257,8 @@ Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/ling
 <h3 align="center"> My latest Medium posts </h3>
 ```
 
+<!-- omit in toc --> 
 <h3 align="center"> My latest Medium posts </h3>
-
 
 # Tables
 
@@ -793,6 +801,7 @@ _   Underscore`
 {}  Curly braces
 .   Dot
 !   Exclamation mark
+<!-- omit in toc --> 
 #   Hash symbol
 -   Hyphen symbol
 ()  Parentheses
