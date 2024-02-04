@@ -38,11 +38,15 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 #### Heading 4
 ##### Heading 5
 ```
-
+<!-- omit in toc --> 
 # Heading 1
+<!-- omit in toc --> 
 ## Heading 2
+<!-- omit in toc --> 
 ### Heading 3
+<!-- omit in toc --> 
 #### Heading 4
+<!-- omit in toc --> 
 ##### Heading 5
 
 ```
