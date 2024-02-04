@@ -15,12 +15,18 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 
 
 - [Headings](#headings)
+- [Text styles](#text-styles)
 - [Syntax Highlighting](#syntax-highlighting)
 	* [Inline code](#inline-code)
 	* [Code block](#code-block)
 - [Alignments](#alignments)
 - [Tables](#tables)
 - [Links](#links)
+	* [Inline](#inline)
+	* [Reference](#reference)
+	* [Relative](#relative)
+	* [Auto](#auto)
+	* [Section](#section)
 - [Images](#images)
 - [Lists](#lists)
 	* [Ordered](#ordered)
@@ -456,11 +462,17 @@ console.log(fullName); // Dariana Trahan
 
 # Links
 
+
+## Inline
+
 ```
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 ```
 
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
+
+
+## Reference
 
 ```
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
@@ -484,6 +496,7 @@ console.log(fullName); // Dariana Trahan
 [1]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 [Markdown-Cheat-Sheet]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 
+## Relative
 
 ```
 [Example of a relative link](rl.md)
@@ -491,8 +504,13 @@ console.log(fullName); // Dariana Trahan
 
 [Example of a relative link](rl.md)
 
+## Auto
 
 Visit https://github.com/
+
+## Section
+
+<img width="503" alt="Screen Shot 2024-02-04 at 12 49 07 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/fd69c9d9-82d7-44ce-a1ed-2e8d48881097">
 
 # Images
 
@@ -684,9 +702,6 @@ Visit https://github.com/
 
 </details>
 
-
-
-
 # Horizontal Rule
 
 ```
@@ -701,8 +716,8 @@ ___
 
 ___
 
-# Diagrams (19 July 2022)
 
+# Diagrams (19 July 2022)
 
 ```
 pie
