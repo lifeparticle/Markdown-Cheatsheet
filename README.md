@@ -16,34 +16,34 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Headings](#headings)
 - [Text styles](#text-styles)
 - [Syntax Highlighting](#syntax-highlighting)
-  - [Inline code](#inline-code)
-  - [Code block](#code-block)
+	* [Inline code](#inline-code)
+	* [Code block](#code-block)
 - [Alignments](#alignments)
 - [Tables](#tables)
 - [Links](#links)
-  - [Inline](#inline)
-  - [Reference](#reference)
-  - [Relative](#relative)
-  - [Auto](#auto)
-  - [Section](#section)
+	* [Inline](#inline)
+	* [Reference](#reference)
+	* [Relative](#relative)
+	* [Auto](#auto)
+	* [Section](#section)
 - [Images](#images)
 - [Lists](#lists)
-  - [Ordered](#ordered)
-  - [Unordered](#unordered)
-  - [Task](#task)
+	* [Ordered](#ordered)
+	* [Unordered](#unordered)
+	* [Task](#task)
 - [Buttons](#buttons)
 - [Collapsible items (28 July 2023)](#collapsible-items-28-july-2023)
 - [Horizontal Rule](#horizontal-rule)
-- [Diagrams (19 July 2022)](#diagrams-19-july-2022)
-- [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
+- [Diagrams (19 July 2022)](#diagrams-19-july-2022)
+- [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
 - [Alerts (8 January 2024)](#alerts-8-january-2024)
 - [Miscellaneous](#miscellaneous)
-  - [Comments](#comments)
-  - [Escaping Markdown Characters](#escaping-markdown-characters)
-  - [Emojis](#emojis)
-  - [Mention a person or team](#mention-a-person-or-team)
-  - [Issues and pull requests](#issues-and-pull-requests)
-  - [Back to top](#back-to-top)
+	* [Comments](#comments)
+	* [Escaping Markdown Characters](#escaping-markdown-characters)
+	* [Emojis](#emojis)
+	* [Mention a person or team](#mention-a-person-or-team)
+	* [Issues and pull requests](#issues-and-pull-requests)
+	* [Back to top](#back-to-top)
 - [Bitbucket](#bitbucket)
 - [Azure DevOps Project wiki](#azure-devops-project-wiki)
 - [Tools](#tools)
@@ -57,25 +57,15 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 #### Heading 4
 ##### Heading 5
 ```
-
 <!-- omit in toc -->
-
 # Heading 1
-
 <!-- omit in toc -->
-
 ## Heading 2
-
 <!-- omit in toc -->
-
 ### Heading 3
-
 <!-- omit in toc -->
-
 #### Heading 4
-
 <!-- omit in toc -->
-
 ##### Heading 5
 
 ```
@@ -88,22 +78,21 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 
 <!-- omit in toc -->
 <h1>Heading 1</h1>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h2>Heading 2</h2>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h3>Heading 3</h3>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h4>Heading 4</h4>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h5>Heading 5</h5>
 
 <!-- omit in toc -->
-
-# Heading 1
-
+Heading 1
+=
 <!-- omit in toc -->
-
-## Heading 2
+Heading 2
+-
 
 # Text styles
 
@@ -127,13 +116,14 @@ Bold
 
 **The quick brown fox jumps over the lazy dog.**
 
-**The quick brown fox jumps over the lazy dog.**
+__The quick brown fox jumps over the lazy dog.__
 
 <strong>The quick brown fox jumps over the lazy dog.</strong>
 
+
 Italic
 
-_The quick brown fox jumps over the lazy dog._
+*The quick brown fox jumps over the lazy dog.*
 
 _The quick brown fox jumps over the lazy dog._
 
@@ -169,12 +159,10 @@ Blockquotes
 > The quick brown fox jumps over the lazy dog.
 
 > The quick brown fox jumps over the lazy dog.
->
-> > The quick brown fox jumps over the lazy dog.
-> >
-> > > The quick brown fox jumps over the lazy dog.
+>> The quick brown fox jumps over the lazy dog.
+>>> The quick brown fox jumps over the lazy dog.
 
-> **The quick brown fox** _jumps over the lazy dog._
+> **The quick brown fox** *jumps over the lazy dog.*
 
 ```
 Monospaced
@@ -208,6 +196,7 @@ Boxed
 
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 
+
 ```
 2 <sup>53-1</sup> and -2 <sup>53-1</sup>
 ```
@@ -222,12 +211,15 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
+
+
 
 # Syntax Highlighting
 
 ## Inline code
 
 A class method is an instance method of the class object. When a new class is created, an object of type `Class` is initialized and assigned to a global constant (Mobile in this case).
+
 
 ## Code block
 
@@ -242,7 +234,6 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml) and [this](https://github.com/github-linguist/linguist/tree/master/vendor) GitHub document to find all the valid keywords.
 
 # Alignments
-
 ```
 <p align="left">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
@@ -312,6 +303,8 @@ The quick brown fox jumps over the lazy dog.
 </tr>
 </table>
 
+
+
 ```
 | Default | Left align | Center align | Right align |
 | - | :- | :-: | -: |
@@ -337,26 +330,29 @@ Default    | Left align | Center align | Right align
 9999999    | 9999999    | 9999999      | 9999999
 ```
 
-| Default    | Left align | Center align | Right align |
-| ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+| Default | Left align | Center align | Right align |
+| - | :- | :-: | -: |
+| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
+| 999999999 | 999999999 | 999999999 | 999999999 |
+| 99999999 | 99999999 | 99999999 | 99999999 |
+| 9999999 | 9999999 | 9999999 | 9999999 |
+
 
 | Default    | Left align | Center align | Right align |
 | ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+| 9999999999 | 9999999999 | 9999999999   | 9999999999  |
+| 999999999  | 999999999  | 999999999    | 999999999   |
+| 99999999   | 99999999   | 99999999     | 99999999    |
+| 9999999    | 9999999    | 9999999      | 9999999     |
 
-| Default    | Left align | Center align | Right align |
-| ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+
+Default    | Left align | Center align | Right align
+---------- | :--------- | :----------: | ----------:
+9999999999 | 9999999999 | 9999999999   | 9999999999
+999999999  | 999999999  | 999999999    | 999999999
+99999999   | 99999999   | 99999999     | 99999999
+9999999    | 9999999    | 9999999      | 9999999
+
 
 ```
 <table>
@@ -390,15 +386,15 @@ Default    | Left align | Center align | Right align
 
 <td>
 
-| A   | B   | C   |
-| --- | --- | --- |
-| 1   | 2   | 3   |
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
 </td><td>
 
-| A   | B   | C   |
-| --- | --- | --- |
-| 1   | 2   | 3   |
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
 </td></tr> </table>
 
@@ -408,9 +404,10 @@ Default    | Left align | Center align | Right align
 | 1 | 2 | 3 <br/> 4 <br/> 5 |
 ```
 
-| A   | B   | C                 |
-| --- | --- | ----------------- |
-| 1   | 2   | 3 <br/> 4 <br/> 5 |
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 <br/> 4 <br/> 5 |
+
 
 ```
 <table>
@@ -466,6 +463,7 @@ console.log(fullName); // Dariana Trahan
 
 # Links
 
+
 ## Inline
 
 ```
@@ -473,6 +471,7 @@ console.log(fullName); // Dariana Trahan
 ```
 
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
+
 
 ## Reference
 
@@ -498,6 +497,17 @@ console.log(fullName); // Dariana Trahan
 [1]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 [Markdown-Cheat-Sheet]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 
+## Footnote
+
+```markdown
+[^1]: This is footnote number one.
+[^2]: Here is the second footnote.
+```
+
+Footnote.[^1]
+
+Some other important footnote.[^2]
+
 ## Relative
 
 ```
@@ -514,17 +524,6 @@ Visit https://github.com/
 
 <img width="503" alt="Screen Shot 2024-02-04 at 12 49 07 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/fd69c9d9-82d7-44ce-a1ed-2e8d48881097">
 
-## Footnote
-
-```markdown
-[^1]: This is footnote number one.
-[^2]: Here is the second footnote.
-```
-
-Footnote.[^1]
-
-Some other important footnote.[^2]
-
 # Images
 
 ```
@@ -538,7 +537,6 @@ Some other important footnote.[^2]
 
 [image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
 ```
-
 ![alt text][image]
 
 [image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
@@ -548,6 +546,7 @@ Some other important footnote.[^2]
 ```
 
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+
 
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 
@@ -578,14 +577,15 @@ Some other important footnote.[^2]
     1. Second level
 ```
 
+
 1. First level
-   1. Second level
-      - Third level
-        - Fourth level
+    1. Second level
+        - Third level
+            - Fourth level
 2. First level
-   1. Second level
+    1. Second level
 3. First level
-   1. Second level
+    1. Second level
 
 ## Unordered
 
@@ -604,17 +604,19 @@ Some other important footnote.[^2]
 - 3
 ```
 
-- 1
-- 2
-- 3
-
 * 1
 * 2
 * 3
 
++ 1
++ 2
++ 3
+
+
 - 1
 - 2
 - 3
+
 
 ```
 - First level
@@ -628,13 +630,13 @@ Some other important footnote.[^2]
 ```
 
 - First level
-  - Second level
-    - Third level
-      - Fourth level
+    - Second level
+        - Third level
+            - Fourth level
 - First level
-  - Second level
+    - Second level
 - First level
-  - Second level
+    - Second level
 
 ```
 <ul>
@@ -706,9 +708,9 @@ Some other important footnote.[^2]
 <details>
   <summary>Markdown</summary>
 
-- <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
-- <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
-- <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+-  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+-  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+-  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
 
 </details>
 
@@ -722,17 +724,19 @@ ___
 
 ---
 
----
+***
 
----
+___
 
-# Diagrams (19 July 2022)
+
+# Diagrams (19 July 2022)
 
 ```
 pie
 "Movies" : 80
 "TV shows" : 20
 ```
+
 
 ```mermaid
 pie
@@ -740,7 +744,7 @@ pie
 "TV shows" : 20
 ```
 
-# Mathematical expressions (19 July 2022)
+# Mathematical expressions (19 July 2022)
 
 ```
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
@@ -775,20 +779,22 @@ $$
 > Possible negative outcomes resulting from an action.
 ```
 
-> [!NOTE]  
+
+> [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
 > [!TIP]
 > Additional advice to aid users in achieving better outcomes.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Vital information required for users to attain success.
 
-> [!WARNING]  
+> [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
+
 
 # Miscellaneous
 
@@ -803,7 +809,6 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 -->
 ```
-
 ## Escaping Markdown Characters
 
 Before escaping
@@ -823,22 +828,19 @@ Before escaping
 _   Underscore`
 ```
 
-- Asterisk
-\ Backslash
-` Backtick
-{} Curly braces
-. Dot
-! Exclamation mark
+*   Asterisk
+\   Backslash
+`   Backtick
+{}  Curly braces
+.   Dot
+!   Exclamation mark
 <!-- omit in toc -->
-
-# Hash symbol
-
-- Hyphen symbol
-  () Parentheses
-
-* Plus symbol
-  [] Square brackets
-  \_ Underscore
+#   Hash symbol
+-   Hyphen symbol
+()  Parentheses
++   Plus symbol
+[]  Square brackets
+_   Underscore
 
 After escaping
 
@@ -857,18 +859,18 @@ After escaping
 \_   Underscore
 ```
 
-\* Asterisk
-\\ Backslash
-\` Backtick
-\{} Curly braces
-\. Dot
-\! Exclamation mark
-\# Hash symbol
-\- Hyphen symbol
-\() Parentheses
-\+ Plus symbol
-\[] Square brackets
-\_ Underscore
+\*   Asterisk
+\\   Backslash
+\`   Backtick
+\{}  Curly braces
+\.   Dot
+\!   Exclamation mark
+\#   Hash symbol
+\-   Hyphen symbol
+\()  Parentheses
+\+   Plus symbol
+\[]  Square brackets
+\_   Underscore
 
 ## Emojis
 
@@ -888,7 +890,7 @@ After escaping
 
 @lifeparticle
 
-## Issues and pull requests
+##  Issues and pull requests
 
 ```
 #
@@ -897,6 +899,7 @@ After escaping
 \#
 
 ## Back to top
+
 
 First place the following code at start of your markdown file
 
@@ -909,6 +912,7 @@ Then use one of the following code at the place you want to return to top.
 [Back to top](#top)
 
 [:arrow_up:](#top)
+
 
 ```
 [Back to top](#top)
