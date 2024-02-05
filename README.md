@@ -34,8 +34,8 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Buttons](#buttons)
 - [Collapsible items (28 July 2023)](#collapsible-items-28-july-2023)
 - [Horizontal Rule](#horizontal-rule)
-- [Diagrams (19 July 2022)](#diagrams-19-july-2022)
-- [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
+- [Diagrams (19 July 2022)](#diagrams-19-july-2022)
+- [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
 - [Alerts (8 January 2024)](#alerts-8-january-2024)
 - [Miscellaneous](#miscellaneous)
 	* [Comments](#comments)
@@ -57,15 +57,15 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 #### Heading 4
 ##### Heading 5
 ```
-<!-- omit in toc --> 
+<!-- omit in toc -->
 # Heading 1
-<!-- omit in toc --> 
+<!-- omit in toc -->
 ## Heading 2
-<!-- omit in toc --> 
+<!-- omit in toc -->
 ### Heading 3
-<!-- omit in toc --> 
+<!-- omit in toc -->
 #### Heading 4
-<!-- omit in toc --> 
+<!-- omit in toc -->
 ##### Heading 5
 
 ```
@@ -76,21 +76,21 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 <h5>Heading 5</h5>
 ```
 
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h1>Heading 1</h1>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h2>Heading 2</h2>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h3>Heading 3</h3>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h4>Heading 4</h4>
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h5>Heading 5</h5>
 
-<!-- omit in toc --> 
+<!-- omit in toc -->
 Heading 1
 =
-<!-- omit in toc --> 
+<!-- omit in toc -->
 Heading 2
 -
 
@@ -140,9 +140,9 @@ Blockquotes
 ```
 > The quick brown fox jumps over the lazy dog.
 > The quick brown fox jumps over the lazy dog.
-> 
+>
 > The quick brown fox jumps over the lazy dog.
-> 
+>
 > The quick brown fox jumps over the lazy dog.
 > The quick brown fox jumps over the lazy dog.
 >> The quick brown fox jumps over the lazy dog.
@@ -153,9 +153,9 @@ Blockquotes
 > The quick brown fox jumps over the lazy dog.
 
 > The quick brown fox jumps over the lazy dog.
-> 
+>
 > The quick brown fox jumps over the lazy dog.
-> 
+>
 > The quick brown fox jumps over the lazy dog.
 
 > The quick brown fox jumps over the lazy dog.
@@ -198,10 +198,10 @@ Boxed
 
 
 ```
-2 <sup>53-1</sup> and -2 <sup>53-1</sup> 
+2 <sup>53-1</sup> and -2 <sup>53-1</sup>
 ```
 
-2 <sup>53-1</sup> and -2 <sup>53-1</sup> 
+2 <sup>53-1</sup> and -2 <sup>53-1</sup>
 
 ```
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
@@ -268,7 +268,7 @@ Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/ling
 <h3 align="center"> My latest Medium posts </h3>
 ```
 
-<!-- omit in toc --> 
+<!-- omit in toc -->
 <h3 align="center"> My latest Medium posts </h3>
 
 # Tables
@@ -324,10 +324,10 @@ The quick brown fox jumps over the lazy dog.
 
 Default    | Left align | Center align | Right align
 ---------- | :--------- | :----------: | ----------:
-9999999999 | 9999999999 | 9999999999   | 9999999999 
-999999999  | 999999999  | 999999999    | 999999999  
-99999999   | 99999999   | 99999999     | 99999999   
-9999999    | 9999999    | 9999999      | 9999999 
+9999999999 | 9999999999 | 9999999999   | 9999999999
+999999999  | 999999999  | 999999999    | 999999999
+99999999   | 99999999   | 99999999     | 99999999
+9999999    | 9999999    | 9999999      | 9999999
 ```
 
 | Default | Left align | Center align | Right align |
@@ -348,10 +348,10 @@ Default    | Left align | Center align | Right align
 
 Default    | Left align | Center align | Right align
 ---------- | :--------- | :----------: | ----------:
-9999999999 | 9999999999 | 9999999999   | 9999999999 
-999999999  | 999999999  | 999999999    | 999999999  
-99999999   | 99999999   | 99999999     | 99999999   
-9999999    | 9999999    | 9999999      | 9999999 
+9999999999 | 9999999999 | 9999999999   | 9999999999
+999999999  | 999999999  | 999999999    | 999999999
+99999999   | 99999999   | 99999999     | 99999999
+9999999    | 9999999    | 9999999      | 9999999
 
 
 ```
@@ -497,6 +497,17 @@ console.log(fullName); // Dariana Trahan
 [1]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 [Markdown-Cheat-Sheet]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
 
+## Footnote
+
+```markdown
+[^1]: This is footnote number one.
+[^2]: Here is the second footnote.
+```
+
+Footnote.[^1]
+
+Some other important footnote.[^2]
+
 ## Relative
 
 ```
@@ -575,7 +586,7 @@ Visit https://github.com/
     1. Second level
 3. First level
     1. Second level
-    
+
 ## Unordered
 
 ```
@@ -718,7 +729,7 @@ ___
 ___
 
 
-# Diagrams (19 July 2022)
+# Diagrams (19 July 2022)
 
 ```
 pie
@@ -726,21 +737,21 @@ pie
 "TV shows" : 20
 ```
 
-          
+
 ```mermaid
 pie
 "Movies" : 80
 "TV shows" : 20
 ```
 
-# Mathematical expressions (19 July 2022)
+# Mathematical expressions (19 July 2022)
 
 ```
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
-          
+
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-          
+
 ```
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 ```
@@ -752,16 +763,16 @@ $$
 # Alerts (8 January 2024)
 
 ```
-> [!NOTE]  
+> [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
 > [!TIP]
 > Additional advice to aid users in achieving better outcomes.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Vital information required for users to attain success.
 
-> [!WARNING]  
+> [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
 
 > [!CAUTION]
@@ -769,22 +780,22 @@ $$
 ```
 
 
-> [!NOTE]  
+> [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
 > [!TIP]
 > Additional advice to aid users in achieving better outcomes.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Vital information required for users to attain success.
 
-> [!WARNING]  
+> [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
 
-          
+
 # Miscellaneous
 
 ## Comments
@@ -823,7 +834,7 @@ _   Underscore`
 {}  Curly braces
 .   Dot
 !   Exclamation mark
-<!-- omit in toc --> 
+<!-- omit in toc -->
 #   Hash symbol
 -   Hyphen symbol
 ()  Parentheses
@@ -871,7 +882,7 @@ After escaping
 
 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
-## Mention a person or team 
+## Mention a person or team
 
 ```
 @lifeparticle
