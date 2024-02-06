@@ -23,6 +23,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Links](#links)
 	* [Inline](#inline)
 	* [Reference](#reference)
+ 	* [Footnote](#footnote)
 	* [Relative](#relative)
 	* [Auto](#auto)
 	* [Section](#section)
@@ -499,14 +500,21 @@ console.log(fullName); // Dariana Trahan
 
 ## Footnote
 
+Footnote.[^1]
+
+Some other important footnote.[^2]
+
 ```markdown
 [^1]: This is footnote number one.
 [^2]: Here is the second footnote.
 ```
 
-Footnote.[^1]
+[^1]: This is footnote number one.
+[^2]: Here is the second footnote.
 
-Some other important footnote.[^2]
+
+<img width="264" alt="Screen Shot 2024-02-06 at 8 23 52 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/f55f13ff-8566-48f8-9353-edf3474523fd">
+
 
 ## Relative
 
