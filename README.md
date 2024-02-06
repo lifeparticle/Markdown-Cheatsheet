@@ -51,7 +51,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 
 # Headings
 
-```
+```markdown
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -69,7 +69,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 <!-- omit in toc -->
 ##### Heading 5
 
-```
+```markdown
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
@@ -97,7 +97,7 @@ Heading 2
 
 # Text styles
 
-```
+```markdown
 Bold
 **The quick brown fox jumps over the lazy dog.**
 __The quick brown fox jumps over the lazy dog.__
@@ -138,7 +138,7 @@ Bold and Italic
 
 Blockquotes
 
-```
+```markdown
 > The quick brown fox jumps over the lazy dog.
 > The quick brown fox jumps over the lazy dog.
 >
@@ -165,7 +165,7 @@ Blockquotes
 
 > **The quick brown fox** *jumps over the lazy dog.*
 
-```
+```markdown
 Monospaced
 <samp>The quick brown fox jumps over the lazy dog.</samp>
 
@@ -188,7 +188,7 @@ Strike-through
 
 ~~The quick brown fox jumps over the lazy dog.~~
 
-```
+```markdown
 Boxed
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 ```
@@ -197,14 +197,13 @@ Boxed
 
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 
-
-```
+```markdown
 2 <sup>53-1</sup> and -2 <sup>53-1</sup>
 ```
 
 2 <sup>53-1</sup> and -2 <sup>53-1</sup>
 
-```
+```markdown
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 ```
@@ -212,8 +211,6 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
-
-
 
 # Syntax Highlighting
 
@@ -235,7 +232,8 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml) and [this](https://github.com/github-linguist/linguist/tree/master/vendor) GitHub document to find all the valid keywords.
 
 # Alignments
-```
+
+```markdown
 <p align="left">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
@@ -245,7 +243,7 @@ Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/ling
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
-```
+```markdown
 <p align="center">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
@@ -255,7 +253,7 @@ Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/ling
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
-```
+```markdown
 <p align="right">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
@@ -265,7 +263,7 @@ Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/ling
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
-```
+```markdown
 <h3 align="center"> My latest Medium posts </h3>
 ```
 
@@ -274,7 +272,7 @@ Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/ling
 
 # Tables
 
-```
+```markdown
 <table>
 <tr>
 <td width="33%"">
@@ -304,9 +302,7 @@ The quick brown fox jumps over the lazy dog.
 </tr>
 </table>
 
-
-
-```
+```markdown
 | Default | Left align | Center align | Right align |
 | - | :- | :-: | -: |
 | 9999999999 | 9999999999 | 9999999999 | 9999999999 |
@@ -314,14 +310,12 @@ The quick brown fox jumps over the lazy dog.
 | 99999999 | 99999999 | 99999999 | 99999999 |
 | 9999999 | 9999999 | 9999999 | 9999999 |
 
-
 | Default    | Left align | Center align | Right align |
 | ---------- | :--------- | :----------: | ----------: |
 | 9999999999 | 9999999999 | 9999999999   | 9999999999  |
 | 999999999  | 999999999  | 999999999    | 999999999   |
 | 99999999   | 99999999   | 99999999     | 99999999    |
 | 9999999    | 9999999    | 9999999      | 9999999     |
-
 
 Default    | Left align | Center align | Right align
 ---------- | :--------- | :----------: | ----------:
@@ -338,14 +332,12 @@ Default    | Left align | Center align | Right align
 | 99999999 | 99999999 | 99999999 | 99999999 |
 | 9999999 | 9999999 | 9999999 | 9999999 |
 
-
 | Default    | Left align | Center align | Right align |
 | ---------- | :--------- | :----------: | ----------: |
 | 9999999999 | 9999999999 | 9999999999   | 9999999999  |
 | 999999999  | 999999999  | 999999999    | 999999999   |
 | 99999999   | 99999999   | 99999999     | 99999999    |
 | 9999999    | 9999999    | 9999999      | 9999999     |
-
 
 Default    | Left align | Center align | Right align
 ---------- | :--------- | :----------: | ----------:
@@ -354,8 +346,7 @@ Default    | Left align | Center align | Right align
 99999999   | 99999999   | 99999999     | 99999999
 9999999    | 9999999    | 9999999      | 9999999
 
-
-```
+```markdown
 <table>
 <tr>
 <th>Heading 1</th>
@@ -399,7 +390,7 @@ Default    | Left align | Center align | Right align
 
 </td></tr> </table>
 
-```
+```markdown
 | A | B | C |
 |---|---|---|
 | 1 | 2 | 3 <br/> 4 <br/> 5 |
@@ -409,8 +400,7 @@ Default    | Left align | Center align | Right align
 |---|---|---|
 | 1 | 2 | 3 <br/> 4 <br/> 5 |
 
-
-```
+```markdown
 <table>
 <tr>
 <th>Before Hoisting</th>
@@ -464,19 +454,17 @@ console.log(fullName); // Dariana Trahan
 
 # Links
 
-
 ## Inline
 
-```
+```markdown
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 ```
 
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
 
-
 ## Reference
 
-```
+```markdown
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
 
 [The-Ultimate-Markdown-Cheat-Sheet][1]
@@ -520,13 +508,17 @@ Some other important footnote.[^2]
 
 ## Relative
 
-```
+```markdown
 [Example of a relative link](rl.md)
 ```
 
 [Example of a relative link](rl.md)
 
 ## Auto
+
+```markdown
+Visit https://github.com/
+```
 
 Visit https://github.com/
 
@@ -536,27 +528,27 @@ Visit https://github.com/
 
 # Images
 
-```
+```markdown
 ![alt text](https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
 ```
 
 ![alt text](https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
 
-```
+```markdown
 ![alt text][image]
 
 [image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
 ```
+
 ![alt text][image]
 
 [image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
 
-```
+```markdown
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 ```
 
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
-
 
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 
@@ -566,7 +558,7 @@ Visit https://github.com/
 
 ## Ordered
 
-```
+```markdown
 1. One
 2. Two
 3. Three
@@ -576,7 +568,7 @@ Visit https://github.com/
 2. Two
 3. Three
 
-```
+```markdown
 1. First level
     1. Second level
         - Third level
@@ -599,7 +591,7 @@ Visit https://github.com/
 
 ## Unordered
 
-```
+```markdown
 * 1
 * 2
 * 3
@@ -628,7 +620,7 @@ Visit https://github.com/
 - 3
 
 
-```
+```markdown
 - First level
     - Second level
         - Third level
@@ -648,7 +640,7 @@ Visit https://github.com/
 - First level
     - Second level
 
-```
+```markdown
 <ul>
 <li>First item</li>
 <li>Second item</li>
@@ -666,7 +658,7 @@ Visit https://github.com/
 
 ## Task
 
-```
+```markdown
 - [x] Fix Bug 223
 - [ ] Add Feature 33
 - [ ] Add unit tests
@@ -678,25 +670,25 @@ Visit https://github.com/
 
 # Buttons
 
-```
+```markdown
 <kbd>cmd + shift + p</kbd>
 ```
 
 <kbd>cmd + shift + p</kbd>
 
-```
+```markdown
 <kbd> <br> cmd + shift + p <br> </kbd>
 ```
 
 <kbd> <br> cmd + shift + p <br> </kbd>
 
-```
+```markdown
 <kbd>[Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
 ```
 
 <kbd>[Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
 
-```
+```markdown
 [<kbd>Markdown-Cheatsheet</kbd>](https://github.com/lifeparticle/Markdown-Cheatsheet)
 ```
 
@@ -704,7 +696,7 @@ Visit https://github.com/
 
 # Collapsible items (28 July 2023)
 
-```
+```markdown
 <details>
   <summary>Markdown</summary>
 
@@ -726,7 +718,7 @@ Visit https://github.com/
 
 # Horizontal Rule
 
-```
+```markdown
 ---
 ***
 ___
@@ -741,7 +733,7 @@ ___
 
 # Diagrams (19 July 2022)
 
-```
+```markdown
 pie
 "Movies" : 80
 "TV shows" : 20
@@ -756,13 +748,13 @@ pie
 
 # Mathematical expressions (19 July 2022)
 
-```
+```markdown
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
 
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
-```
+```markdown
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 ```
 
@@ -772,7 +764,7 @@ $$
 
 # Alerts (8 January 2024)
 
-```
+```markdown
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
@@ -789,7 +781,6 @@ $$
 > Possible negative outcomes resulting from an action.
 ```
 
-
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
@@ -804,7 +795,6 @@ $$
 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
-
 
 # Miscellaneous
 
@@ -814,7 +804,7 @@ $$
 Lorem ipsum dolor sit amet
 -->
 
-```
+```markdown
 <!--
 Lorem ipsum dolor sit amet
 -->
@@ -823,7 +813,7 @@ Lorem ipsum dolor sit amet
 
 Before escaping
 
-```
+```markdown
 *   Asterisk
 \   Backslash
 `   Backtick
@@ -854,7 +844,7 @@ _   Underscore
 
 After escaping
 
-```
+```markdown
 \*   Asterisk
 \\   Backslash
 \`   Backtick
@@ -884,7 +874,7 @@ After escaping
 
 ## Emojis
 
-```
+```markdown
 :octocat:
 ```
 
@@ -894,7 +884,7 @@ After escaping
 
 ## Mention a person or team
 
-```
+```markdown
 @lifeparticle
 ```
 
@@ -902,7 +892,7 @@ After escaping
 
 ##  Issues and pull requests
 
-```
+```markdown
 #
 ```
 
@@ -913,7 +903,7 @@ After escaping
 
 First place the following code at start of your markdown file
 
-```
+```markdown
 <a name="top"></a>
 ```
 
@@ -923,8 +913,7 @@ Then use one of the following code at the place you want to return to top.
 
 [:arrow_up:](#top)
 
-
-```
+```markdown
 [Back to top](#top)
 
 [:arrow_up:](#top)
