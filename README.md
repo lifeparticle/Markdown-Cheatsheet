@@ -504,17 +504,19 @@ Footnote.[^1]
 
 Some other important footnote.[^2]
 
+[^1]: This is footnote number one.
+[^2]: Here is the second footnote.
+
 ```markdown
+Footnote.[^1]
+
+Some other important footnote.[^2]
+
 [^1]: This is footnote number one.
 [^2]: Here is the second footnote.
 ```
 
-[^1]: This is footnote number one.
-[^2]: Here is the second footnote.
-
-
 <img width="264" alt="Screen Shot 2024-02-06 at 8 23 52 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/f55f13ff-8566-48f8-9353-edf3474523fd">
-
 
 ## Relative
 
