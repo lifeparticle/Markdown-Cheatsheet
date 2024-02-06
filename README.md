@@ -901,7 +901,7 @@ After escaping
 
 ## Line break
 
-You can use `<br>` to insert a single line break. For example:
+You can use `<br>` to insert a single line break. Make sure to use an em space ` `. For example:
 
 ```markdown
 <table><tr><td> <br> The quick brown fox jumps over the lazy dog. <br> </td></tr></table>
