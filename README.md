@@ -44,6 +44,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 	* [Emojis](#emojis)
 	* [Mention a person or team](#mention-a-person-or-team)
 	* [Issues and pull requests](#issues-and-pull-requests)
+ 	* [Line break](#line-break)
 	* [Back to top](#back-to-top)
 - [Bitbucket](#bitbucket)
 - [Azure DevOps Project wiki](#azure-devops-project-wiki)
@@ -898,8 +899,25 @@ After escaping
 
 \#
 
-## Back to top
+## Line break
 
+You can use <br> to insert a single line break. For example:
+
+```markdown
+<table><tr><td> <br> The quick brown fox jumps over the lazy dog. <br> </td></tr></table>
+```
+
+<table><tr><td> <br> The quick brown fox jumps over the lazy dog. <br> </td></tr></table>
+
+Or
+
+```markdown
+<table><tr><td> <br><br><br> The quick brown fox jumps over the lazy dog. <br><br><br> </td></tr></table>
+```
+
+<table><tr><td> <br><br><br> The quick brown fox jumps over the lazy dog. <br><br><br> </td></tr></table>
+
+## Back to top
 
 First place the following code at start of your markdown file
 
