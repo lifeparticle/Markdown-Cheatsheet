@@ -16,22 +16,24 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Headings](#headings)
 - [Text styles](#text-styles)
 - [Syntax Highlighting](#syntax-highlighting)
-  - [Inline code](#inline-code)
-  - [Code block](#code-block)
+	* [Inline code](#inline-code)
+	* [Code block](#code-block)
+	* [Diff Code block](#diff-code-block)
 - [Alignments](#alignments)
 - [Tables](#tables)
 - [Links](#links)
-  - [Inline](#inline)
-  - [Reference](#reference)
-  - [Footnote](#footnote)
-  - [Relative](#relative)
-  - [Auto](#auto)
-  - [Section](#section)
+	* [Inline](#inline)
+	* [Reference](#reference)
+	* [Footnote](#footnote)
+	* [Relative](#relative)
+	* [Auto](#auto)
+	* [Section](#section)
 - [Images](#images)
+- [Badges](#badges)
 - [Lists](#lists)
-  - [Ordered](#ordered)
-  - [Unordered](#unordered)
-  - [Task](#task)
+	* [Ordered](#ordered)
+	* [Unordered](#unordered)
+	* [Task](#task)
 - [Buttons](#buttons)
 - [Collapsible items (28 July 2023)](#collapsible-items-28-july-2023)
 - [Horizontal Rule](#horizontal-rule)
@@ -39,13 +41,13 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
 - [Alerts (8 January 2024)](#alerts-8-january-2024)
 - [Miscellaneous](#miscellaneous)
-  - [Comments](#comments)
-  - [Escaping Markdown Characters](#escaping-markdown-characters)
-  - [Emojis](#emojis)
-  - [Mention a person or team](#mention-a-person-or-team)
-  - [Issues and pull requests](#issues-and-pull-requests)
-  - [Line break](#line-break)
-  - [Back to top](#back-to-top)
+	* [Comments](#comments)
+	* [Escaping Markdown Characters](#escaping-markdown-characters)
+	* [Emojis](#emojis)
+	* [Mention a person or team](#mention-a-person-or-team)
+	* [Issues and pull requests](#issues-and-pull-requests)
+	* [Line break](#line-break)
+	* [Back to top](#back-to-top)
 - [Bitbucket](#bitbucket)
 - [Azure DevOps Project wiki](#azure-devops-project-wiki)
 - [Tools](#tools)
@@ -54,34 +56,20 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 
 ```markdown
 # Heading 1
-
 ## Heading 2
-
 ### Heading 3
-
 #### Heading 4
-
 ##### Heading 5
 ```
-
 <!-- omit in toc -->
-
 # Heading 1
-
 <!-- omit in toc -->
-
 ## Heading 2
-
 <!-- omit in toc -->
-
 ### Heading 3
-
 <!-- omit in toc -->
-
 #### Heading 4
-
 <!-- omit in toc -->
-
 ##### Heading 5
 
 ```markdown
@@ -104,22 +92,21 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 <h5>Heading 5</h5>
 
 <!-- omit in toc -->
-
-# Heading 1
-
+Heading 1
+=
 <!-- omit in toc -->
-
-## Heading 2
+Heading 2
+-
 
 # Text styles
 
 ```markdown
 Bold
 **The quick brown fox jumps over the lazy dog.**
-**The quick brown fox jumps over the lazy dog.**
+__The quick brown fox jumps over the lazy dog.__
 <strong>The quick brown fox jumps over the lazy dog.</strong>
 Italic
-_The quick brown fox jumps over the lazy dog._
+*The quick brown fox jumps over the lazy dog.*
 _The quick brown fox jumps over the lazy dog._
 <em>The quick brown fox jumps over the lazy dog.</em>
 Bold and Italic
@@ -133,13 +120,14 @@ Bold
 
 **The quick brown fox jumps over the lazy dog.**
 
-**The quick brown fox jumps over the lazy dog.**
+__The quick brown fox jumps over the lazy dog.__
 
 <strong>The quick brown fox jumps over the lazy dog.</strong>
 
+
 Italic
 
-_The quick brown fox jumps over the lazy dog._
+*The quick brown fox jumps over the lazy dog.*
 
 _The quick brown fox jumps over the lazy dog._
 
@@ -161,11 +149,9 @@ Blockquotes
 >
 > The quick brown fox jumps over the lazy dog.
 > The quick brown fox jumps over the lazy dog.
->
-> > The quick brown fox jumps over the lazy dog.
-> >
-> > > The quick brown fox jumps over the lazy dog.
-> > > **The quick brown fox** _jumps over the lazy dog._
+>> The quick brown fox jumps over the lazy dog.
+>>> The quick brown fox jumps over the lazy dog.
+> **The quick brown fox** *jumps over the lazy dog.*
 ```
 
 > The quick brown fox jumps over the lazy dog.
@@ -177,12 +163,10 @@ Blockquotes
 > The quick brown fox jumps over the lazy dog.
 
 > The quick brown fox jumps over the lazy dog.
->
-> > The quick brown fox jumps over the lazy dog.
-> >
-> > > The quick brown fox jumps over the lazy dog.
+>> The quick brown fox jumps over the lazy dog.
+>>> The quick brown fox jumps over the lazy dog.
 
-> **The quick brown fox** _jumps over the lazy dog._
+> **The quick brown fox** *jumps over the lazy dog.*
 
 ```markdown
 Monospaced
@@ -209,7 +193,6 @@ Strike-through
 
 ```markdown
 Boxed
-
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 ```
 
@@ -237,6 +220,7 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 ## Inline code
 
 A class method is an instance method of the class object. When a new class is created, an object of type `Class` is initialized and assigned to a global constant (Mobile in this case).
+
 
 ## Code block
 
@@ -336,48 +320,48 @@ The quick brown fox jumps over the lazy dog.
 </table>
 
 ```markdown
-| Default    | Left align | Center align | Right align |
-| ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+| Default | Left align | Center align | Right align |
+| - | :- | :-: | -: |
+| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
+| 999999999 | 999999999 | 999999999 | 999999999 |
+| 99999999 | 99999999 | 99999999 | 99999999 |
+| 9999999 | 9999999 | 9999999 | 9999999 |
 
 | Default    | Left align | Center align | Right align |
 | ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+| 9999999999 | 9999999999 | 9999999999   | 9999999999  |
+| 999999999  | 999999999  | 999999999    | 999999999   |
+| 99999999   | 99999999   | 99999999     | 99999999    |
+| 9999999    | 9999999    | 9999999      | 9999999     |
 
-| Default    | Left align | Center align | Right align |
-| ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+Default    | Left align | Center align | Right align
+---------- | :--------- | :----------: | ----------:
+9999999999 | 9999999999 | 9999999999   | 9999999999
+999999999  | 999999999  | 999999999    | 999999999
+99999999   | 99999999   | 99999999     | 99999999
+9999999    | 9999999    | 9999999      | 9999999
 ```
 
-| Default    | Left align | Center align | Right align |
-| ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+| Default | Left align | Center align | Right align |
+| - | :- | :-: | -: |
+| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
+| 999999999 | 999999999 | 999999999 | 999999999 |
+| 99999999 | 99999999 | 99999999 | 99999999 |
+| 9999999 | 9999999 | 9999999 | 9999999 |
 
 | Default    | Left align | Center align | Right align |
 | ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+| 9999999999 | 9999999999 | 9999999999   | 9999999999  |
+| 999999999  | 999999999  | 999999999    | 999999999   |
+| 99999999   | 99999999   | 99999999     | 99999999    |
+| 9999999    | 9999999    | 9999999      | 9999999     |
 
-| Default    | Left align | Center align | Right align |
-| ---------- | :--------- | :----------: | ----------: |
-| 9999999999 | 9999999999 |  9999999999  |  9999999999 |
-| 999999999  | 999999999  |  999999999   |   999999999 |
-| 99999999   | 99999999   |   99999999   |    99999999 |
-| 9999999    | 9999999    |   9999999    |     9999999 |
+Default    | Left align | Center align | Right align
+---------- | :--------- | :----------: | ----------:
+9999999999 | 9999999999 | 9999999999   | 9999999999
+999999999  | 999999999  | 999999999    | 999999999
+99999999   | 99999999   | 99999999     | 99999999
+9999999    | 9999999    | 9999999      | 9999999
 
 ```markdown
 <table>
@@ -389,15 +373,15 @@ The quick brown fox jumps over the lazy dog.
 
 <td>
 
-| A   | B   | C   |
-| --- | --- | --- |
-| 1   | 2   | 3   |
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
 </td><td>
 
-| A   | B   | C   |
-| --- | --- | --- |
-| 1   | 2   | 3   |
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
 </td></tr> </table>
 ```
@@ -411,27 +395,27 @@ The quick brown fox jumps over the lazy dog.
 
 <td>
 
-| A   | B   | C   |
-| --- | --- | --- |
-| 1   | 2   | 3   |
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
 </td><td>
 
-| A   | B   | C   |
-| --- | --- | --- |
-| 1   | 2   | 3   |
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 
 </td></tr> </table>
 
 ```markdown
-| A   | B   | C                 |
-| --- | --- | ----------------- |
-| 1   | 2   | 3 <br/> 4 <br/> 5 |
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 <br/> 4 <br/> 5 |
 ```
 
-| A   | B   | C                 |
-| --- | --- | ----------------- |
-| 1   | 2   | 3 <br/> 4 <br/> 5 |
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 <br/> 4 <br/> 5 |
 
 ```markdown
 <table>
@@ -589,11 +573,12 @@ Visit https://github.com/
 
 # Badges
 
-```md
+```markdown
 ![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
 ```
 
 ![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
+
 
 # Lists
 
@@ -611,71 +596,75 @@ Visit https://github.com/
 
 ```markdown
 1. First level
-   1. Second level
-      - Third level
-        - Fourth level
+    1. Second level
+        - Third level
+            - Fourth level
 2. First level
-   1. Second level
+    1. Second level
 3. First level
-   1. Second level
+    1. Second level
 ```
 
+
 1. First level
-   1. Second level
-      - Third level
-        - Fourth level
+    1. Second level
+        - Third level
+            - Fourth level
 2. First level
-   1. Second level
+    1. Second level
 3. First level
-   1. Second level
+    1. Second level
 
 ## Unordered
 
 ```markdown
-- 1
-- 2
-- 3
-
 * 1
 * 2
 * 3
+
++ 1
++ 2
++ 3
+
 
 - 1
 - 2
 - 3
 ```
 
-- 1
-- 2
-- 3
-
 * 1
 * 2
 * 3
 
++ 1
++ 2
++ 3
+
+
 - 1
 - 2
 - 3
+
 
 ```markdown
 - First level
-  - Second level
-    - Third level
-      - Fourth level
+    - Second level
+        - Third level
+            - Fourth level
 - First level
-  - Second level
+    - Second level
 - First level
-  - Second level
+    - Second level
 ```
 
 - First level
-  - Second level
-    - Third level
-      - Fourth level
+    - Second level
+        - Third level
+            - Fourth level
 - First level
-  - Second level
+    - Second level
 - First level
-  - Second level
+    - Second level
 
 ```markdown
 <ul>
@@ -737,9 +726,9 @@ Visit https://github.com/
 <details>
   <summary>Markdown</summary>
 
-- <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
-- <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
-- <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+-  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+-  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+-  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
 
 </details>
 ```
@@ -747,9 +736,9 @@ Visit https://github.com/
 <details>
   <summary>Markdown</summary>
 
-- <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
-- <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
-- <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+-  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+-  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+-  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
 
 </details>
 
@@ -757,17 +746,16 @@ Visit https://github.com/
 
 ```markdown
 ---
-
----
-
----
+***
+___
 ```
 
 ---
 
----
+***
 
----
+___
+
 
 # Diagrams (19 July 2022)
 
@@ -776,6 +764,7 @@ pie
 "Movies" : 80
 "TV shows" : 20
 ```
+
 
 ```mermaid
 pie
@@ -846,75 +835,68 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 -->
 ```
-
 ## Escaping Markdown Characters
 
 Before escaping
 
 ```markdown
-- Asterisk
-  \ Backslash
-  ` Backtick
-  {} Curly braces
-  . Dot
-  ! Exclamation mark
-
-# Hash symbol
-
-- Hyphen symbol
-  () Parentheses
-
-* Plus symbol
-  [] Square brackets
-  \_ Underscore`
+*   Asterisk
+\   Backslash
+`   Backtick
+{}  Curly braces
+.   Dot
+!   Exclamation mark
+#   Hash symbol
+-   Hyphen symbol
+()  Parentheses
++   Plus symbol
+[]  Square brackets
+_   Underscore`
 ```
 
-- Asterisk
-\ Backslash
-` Backtick
-{} Curly braces
-. Dot
-! Exclamation mark
+*   Asterisk
+\   Backslash
+`   Backtick
+{}  Curly braces
+.   Dot
+!   Exclamation mark
 <!-- omit in toc -->
-
-# Hash symbol
-
-- Hyphen symbol
-  () Parentheses
-
-* Plus symbol
-  [] Square brackets
-  \_ Underscore
+#   Hash symbol
+-   Hyphen symbol
+()  Parentheses
++   Plus symbol
+[]  Square brackets
+_   Underscore
 
 After escaping
 
 ```markdown
-\* Asterisk
-\\ Backslash
-\` Backtick
-\{} Curly braces
-\. Dot
-\! Exclamation mark
-\# Hash symbol
-\- Hyphen symbol
-\() Parentheses
-\+ Plus symbol
-\[] Square brackets
-\_ Underscore
+\*   Asterisk
+\\   Backslash
+\`   Backtick
+\{}  Curly braces
+\.   Dot
+\!   Exclamation mark
+\#   Hash symbol
+\-   Hyphen symbol
+\()  Parentheses
+\+   Plus symbol
+\[]  Square brackets
+\_   Underscore
 ```
 
-\* Asterisk
-\\ Backslash
-\` Backtick
-\{} Curly braces
-\. Dot
-\! Exclamation mark
-\# Hash symbol
-\- Hyphen symbol
-\() Parentheses
-\+ Plus symbol
-\[] Square brackets
-\_ Underscore
+\*   Asterisk
+\\   Backslash
+\`   Backtick
+\{}  Curly braces
+\.   Dot
+\!   Exclamation mark
+\#   Hash symbol
+\-   Hyphen symbol
+\()  Parentheses
+\+   Plus symbol
+\[]  Square brackets
+\_   Underscore
 
 ## Emojis
 
@@ -934,7 +916,7 @@ After escaping
 
 @lifeparticle
 
-## Issues and pull requests
+##  Issues and pull requests
 
 ```markdown
 #
