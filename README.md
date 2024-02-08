@@ -18,16 +18,18 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Syntax Highlighting](#syntax-highlighting)
 	* [Inline code](#inline-code)
 	* [Code block](#code-block)
+	* [Diff Code block](#diff-code-block)
 - [Alignments](#alignments)
 - [Tables](#tables)
 - [Links](#links)
 	* [Inline](#inline)
 	* [Reference](#reference)
- 	* [Footnote](#footnote)
+	* [Footnote](#footnote)
 	* [Relative](#relative)
 	* [Auto](#auto)
 	* [Section](#section)
 - [Images](#images)
+- [Badges](#badges)
 - [Lists](#lists)
 	* [Ordered](#ordered)
 	* [Unordered](#unordered)
@@ -44,7 +46,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 	* [Emojis](#emojis)
 	* [Mention a person or team](#mention-a-person-or-team)
 	* [Issues and pull requests](#issues-and-pull-requests)
- 	* [Line break](#line-break)
+	* [Line break](#line-break)
 	* [Back to top](#back-to-top)
 - [Bitbucket](#bitbucket)
 - [Azure DevOps Project wiki](#azure-devops-project-wiki)
@@ -231,6 +233,20 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 ```
 
 Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml) and [this](https://github.com/github-linguist/linguist/tree/master/vendor) GitHub document to find all the valid keywords.
+
+## Diff Code block
+
+```diff
+- this code or text is the old version
++ this is what it was changed to
+```
+
+````
+```diff
+- this code or text is the old version
++ this is what it was changed to
+```
+````
 
 # Alignments
 
@@ -554,6 +570,15 @@ Visit https://github.com/
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 
 <img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
+
+# Badges
+
+```markdown
+![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
+```
+
+![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
+
 
 # Lists
 
