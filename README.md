@@ -40,12 +40,14 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Diagrams (19 July 2022)](#diagrams-19-july-2022)
 - [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
 - [Alerts (8 January 2024)](#alerts-8-january-2024)
+- [Mention people and teams](#mention-people-and-teams)
+- [Reference issues and pull requests](#reference-issues-and-pull-requests)
+- [Color models](#color-models)
 - [Miscellaneous](#miscellaneous)
 	* [Comments](#comments)
 	* [Escaping Markdown Characters](#escaping-markdown-characters)
+- [Hash symbol](#hash-symbol)
 	* [Emojis](#emojis)
-	* [Mention a person or team](#mention-a-person-or-team)
-	* [Issues and pull requests](#issues-and-pull-requests)
 	* [Line break](#line-break)
 	* [Back to top](#back-to-top)
 - [Bitbucket](#bitbucket)
@@ -822,6 +824,35 @@ $$
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
 
+# Mention people and teams
+
+```markdown
+@lifeparticle
+```
+
+@lifeparticle
+
+# Reference issues and pull requests
+
+```markdown
+#
+```
+
+\#
+
+
+# Color models
+
+```
+
+`#ffffff`
+`#000000`
+
+```
+
+![image](https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/dabf1df9-b51e-481c-a69a-89288082413b)
+
+
 # Miscellaneous
 
 ## Comments
@@ -908,21 +939,7 @@ After escaping
 
 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
-## Mention a person or team
 
-```markdown
-@lifeparticle
-```
-
-@lifeparticle
-
-##  Issues and pull requests
-
-```markdown
-#
-```
-
-\#
 
 ## Line break
 
