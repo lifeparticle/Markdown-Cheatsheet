@@ -53,6 +53,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Bitbucket](#bitbucket)
 - [Azure DevOps Project wiki](#azure-devops-project-wiki)
 - [Tools](#tools)
+- [MDX](#mdx)
 
 # Headings
 
@@ -986,6 +987,10 @@ Bitbucket Supported Markdown for [READMEs](https://confluence.atlassian.com/bitb
 # Azure DevOps Project wiki
 
 Azure DevOps Supported Markdown for [Project wiki](https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops).
+
+# MDX
+
+You can write JSX in your markdown document using MDX.
 
 # Tools
 
