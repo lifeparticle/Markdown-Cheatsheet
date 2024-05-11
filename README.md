@@ -990,7 +990,7 @@ Azure DevOps Supported Markdown for [Project wiki](https://learn.microsoft.com/e
 
 # MDX
 
-You can write JSX in your markdown document using MDX.
+You can write JSX in your markdown document using [MDX](https://mdxjs.com/).
 
 # Tools
 
