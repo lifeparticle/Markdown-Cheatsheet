@@ -52,8 +52,8 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 	* [Back to top](#back-to-top)
 - [Bitbucket](#bitbucket)
 - [Azure DevOps Project wiki](#azure-devops-project-wiki)
-- [Tools](#tools)
 - [MDX](#mdx)
+- [Tools](#tools)
 
 # Headings
 
