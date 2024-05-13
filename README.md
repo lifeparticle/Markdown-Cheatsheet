@@ -43,6 +43,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Mention people and teams](#mention-people-and-teams)
 - [Reference issues and pull requests](#reference-issues-and-pull-requests)
 - [Color models](#color-models)
+- [View Code](#view-code)
 - [Miscellaneous](#miscellaneous)
 	* [Comments](#comments)
 	* [Escaping Markdown Characters](#escaping-markdown-characters)
@@ -851,8 +852,16 @@ $$
 
 ```
 
-![image](https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/dabf1df9-b51e-481c-a69a-89288082413b)
+# View Code
 
+![alt text](<Screen Shot 2024-05-13 at 8.36.53 pm.png>)
+
+Click either the Code (top right) or Raw (top left) option to see the markdown code.
+
+> [!NOTE]
+> Make sure you have clicked the markdown file to see the above view.
+
+![alt text](<Screen Shot 2024-05-13 at 8.46.30 pm.png>)
 
 # Miscellaneous
 
@@ -939,7 +948,6 @@ After escaping
 :octocat:
 
 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-
 
 
 ## Line break
