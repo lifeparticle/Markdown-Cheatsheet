@@ -726,11 +726,11 @@ Visit https://github.com/
 
 ## Button with emoji
 
-```markdown
-<kbd> <br> cmd + shift + p ✅ <br> </kbd>
-```
+<kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ↗️ <br> </kbd>
 
-<kbd> <br> cmd + shift + p ✅ <br> </kbd>
+```markdown
+<kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) <br> </kbd>
+```
 
 # Collapsible items (28 July 2023)
 
