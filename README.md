@@ -854,9 +854,9 @@ $$
 
 # View Code
 
-![alt text](<Screen Shot 2024-05-13 at 8.36.53 pm.png>)
-
 Click either the Code (top right) or Raw (top left) option to see the markdown code.
+
+![alt text](<Screen Shot 2024-05-13 at 8.36.53 pm.png>)
 
 > [!NOTE]
 > Make sure you have clicked the markdown file to see the above view.
