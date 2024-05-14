@@ -589,9 +589,11 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 </picture>
 ```
 
-<img width="362" alt="Screen Shot 2024-05-14 at 9 46 39 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/6b6fea8a-61d7-4fb7-be67-f106b989fddb">
-
-<img width="272" alt="Screen Shot 2024-05-14 at 9 47 16 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/fbe4d755-4011-4a6f-9297-6343776b4e51">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png">
+  <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="200">
+</picture>
 
 # Badges
 
