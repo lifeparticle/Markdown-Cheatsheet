@@ -864,12 +864,12 @@ $$
 
 Click either the Code (top right) or Raw (top left) option to see the markdown code.
 
-![alt text](<Screen Shot 2024-05-13 at 8.36.53 pm.png>)
+<img width="1470" alt="code" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/b70541b0-fce8-4f5e-97f4-6443c20b98ec">
 
 > [!NOTE]
 > Make sure you have clicked the markdown file to see the above view.
 
-![alt text](<Screen Shot 2024-05-13 at 8.46.30 pm.png>)
+<img width="907" alt="file" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/a4423154-69de-43c1-aeb5-5348b9f05088">
 
 # Miscellaneous
 
