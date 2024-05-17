@@ -919,12 +919,25 @@ $$
 
 # Reference issues and pull requests
 
+In issuse:
+
 ```markdown
-#
+#1
+#10
 ```
 
-\#
+[Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
+In markdown file:
+
+```md
+https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1
+https://github.com/lifeparticle/Markdown-Cheatsheet/pull/10
+```
+
+https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1
+
+https://github.com/lifeparticle/Markdown-Cheatsheet/pull/10
 
 # Color models
 
