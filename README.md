@@ -620,7 +620,15 @@ Visit https://github.com/
 
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 
+```md
+<img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
+```
+
 <img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
+
+```md
+<img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
+```
 
 ## Theme
 
