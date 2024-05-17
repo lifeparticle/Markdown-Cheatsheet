@@ -950,7 +950,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet/pull/10
 
 ```
 
-https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1
+[Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
 # View Code
 
