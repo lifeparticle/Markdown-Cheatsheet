@@ -911,11 +911,13 @@ $$
 
 # Mention people and teams
 
+In issuse:
+
 ```markdown
 @lifeparticle
 ```
 
-@lifeparticle
+[Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
 # Reference issues and pull requests
 
