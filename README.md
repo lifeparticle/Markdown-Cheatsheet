@@ -243,14 +243,59 @@ Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/ling
 ## Diff Code block
 
 ```diff
-- this code or text is the old version
-+ this is what it was changed to
+## git diff a/test.txt b/test.txt
+diff --git a/a/test.txt b/b/test.txt
+index 309ee57..c995021 100644
+--- a/a/test.txt
++++ b/b/test.txt
+@@ -1,8 +1,6 @@
+-The quick brown fox jumps over the lazy dog
++The quick brown fox jumps over the lazy cat
+
+ a
+-b
+ c
+ d
+-e
+ f
 ```
 
 ````
 ```diff
-- this code or text is the old version
-+ this is what it was changed to
+## git diff a/test.txt b/test.txt
+diff --git a/a/test.txt b/b/test.txt
+index 309ee57..c995021 100644
+--- a/a/test.txt
++++ b/b/test.txt
+@@ -1,8 +1,6 @@
+-The quick brown fox jumps over the lazy dog
++The quick brown fox jumps over the lazy cat
+
+ a
+-b
+ c
+ d
+-e
+ f
+```
+````
+
+```diff
+- Text in Red
++ Text in Green
+! Text in Orange
+# Text in Gray
+@@ Text in Purple and bold @@
+```
+
+
+````
+```diff
+- Text in Red
++ Text in Green
+! Text in Orange
+# Text in Gray
+@@ Text in Purple and bold @@
 ```
 ````
 
