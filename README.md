@@ -922,6 +922,9 @@ pie
 
 # Mathematical expressions (19 July 2022)
 
+> [!IMPORTANT]
+> Check out the official documentation on [GitHub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) to learn more about writing and formatting MathJax syntax. 
+
 ```markdown
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
