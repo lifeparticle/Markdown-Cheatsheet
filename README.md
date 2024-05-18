@@ -259,7 +259,7 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
 ## Text Color
 
-Using LaTeX syntax:
+Using MathJax syntax:
 
 | Color Name      | Code                                                                                         | Example                                                        |
 |-----------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -268,7 +268,7 @@ Using LaTeX syntax:
 | Bittersweet     | `$\color{Bittersweet}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                | $\color{Bittersweet}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$  |
 | Black           | `$\color{Black}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                      | $\color{Black}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$        |
 
-[Full Table](./latex.md)
+[Full Table](./MathJax.md)
 
 # Syntax Highlighting
 
