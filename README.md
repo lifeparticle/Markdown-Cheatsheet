@@ -109,6 +109,13 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 <!-- omit in toc -->
 <h5>Heading 5</h5>
 
+```markdown
+Heading 1
+=
+Heading 2
+-
+```
+
 <!-- omit in toc -->
 Heading 1
 =
