@@ -106,23 +106,22 @@ Heading 2
 
 # Text styles
 
+## Normal
+
 ```markdown
-Bold
-**The quick brown fox jumps over the lazy dog.**
-__The quick brown fox jumps over the lazy dog.__
-<strong>The quick brown fox jumps over the lazy dog.</strong>
-Italic
-*The quick brown fox jumps over the lazy dog.*
-_The quick brown fox jumps over the lazy dog._
-<em>The quick brown fox jumps over the lazy dog.</em>
-Bold and Italic
-**_The quick brown fox jumps over the lazy dog._**
-<strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
+The quick brown fox jumps over the lazy dog.
 ```
 
 The quick brown fox jumps over the lazy dog.
 
-Bold
+
+## Bold
+
+```markdown
+**The quick brown fox jumps over the lazy dog.**
+__The quick brown fox jumps over the lazy dog.__
+<strong>The quick brown fox jumps over the lazy dog.</strong>
+```
 
 **The quick brown fox jumps over the lazy dog.**
 
@@ -130,8 +129,13 @@ __The quick brown fox jumps over the lazy dog.__
 
 <strong>The quick brown fox jumps over the lazy dog.</strong>
 
+## Italic
 
-Italic
+```markdown
+*The quick brown fox jumps over the lazy dog.*
+_The quick brown fox jumps over the lazy dog._
+<em>The quick brown fox jumps over the lazy dog.</em>
+```
 
 *The quick brown fox jumps over the lazy dog.*
 
@@ -139,13 +143,18 @@ _The quick brown fox jumps over the lazy dog._
 
 <em>The quick brown fox jumps over the lazy dog.</em>
 
-Bold and Italic
+## Bold and Italic
+
+```markdown
+**_The quick brown fox jumps over the lazy dog._**
+<strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
+```
 
 **_The quick brown fox jumps over the lazy dog._**
 
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 
-Blockquotes
+## Blockquotes
 
 ```markdown
 > The quick brown fox jumps over the lazy dog.
@@ -174,52 +183,65 @@ Blockquotes
 
 > **The quick brown fox** *jumps over the lazy dog.*
 
+## Monospaced
+
 ```markdown
-Monospaced
 <samp>The quick brown fox jumps over the lazy dog.</samp>
-
-Underlined
-<ins>The quick brown fox jumps over the lazy dog.</ins>
-
-Strike-through
-~~The quick brown fox jumps over the lazy dog.~~
 ```
-
-Monospaced
 
 <samp>The quick brown fox jumps over the lazy dog.</samp>
 
-Underlined
+## Underlined
+
+```markdown
+<ins>The quick brown fox jumps over the lazy dog.</ins>
+```
 
 <ins>The quick brown fox jumps over the lazy dog.</ins>
 
-Strike-through
+
+## Strike-through
+
+```markdown
+~~The quick brown fox jumps over the lazy dog.~~
+```
 
 ~~The quick brown fox jumps over the lazy dog.~~
 
+## Boxed
+
 ```markdown
-Boxed
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 ```
 
-Boxed
-
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 
-```markdown
-2 <sup>53-1</sup> and -2 <sup>53-1</sup>
-```
-
-2 <sup>53-1</sup> and -2 <sup>53-1</sup>
+## Subscript
 
 ```markdown
+log <sub>2</sub>(x)
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
-Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 ```
+
+log <sub>2</sub>(x)
 
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 
+
+## Superscript
+
+```markdown
+2 <sup>53-1</sup> and -2 <sup>53-1</sup>
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
+```
+
+2 <sup>53-1</sup> and -2 <sup>53-1</sup>
+
+Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
+
+## Text Color
+
+
 
 # Syntax Highlighting
 
