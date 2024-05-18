@@ -932,7 +932,9 @@ This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
 ```markdown
+$$
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$$
 ```
 
 $$
