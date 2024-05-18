@@ -259,7 +259,7 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
 ## Text Color
 
-Using [MathJax](https://github.com/lifeparticle/Markdown-Cheatsheet/tree/main#mathematical-expressions-19-july-2022) syntax:
+Using [MathJax](#mathematical-expressions-19-july-2022) syntax:
 
 | Color Name      | Code                                                                                         | Example                                                        |
 |-----------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
