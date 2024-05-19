@@ -40,6 +40,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 	* [Relative](#relative)
 	* [Auto](#auto)
 	* [Section](#section)
+        * [Hover](#hover)
 - [Images](#images)
 	* [Theme](#theme)
 - [Badges](#badges)
@@ -654,6 +655,12 @@ Visit https://github.com/
 ## Section
 
 <img width="503" alt="Screen Shot 2024-02-04 at 12 49 07 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/fd69c9d9-82d7-44ce-a1ed-2e8d48881097">
+
+## Hover
+
+You can use [BinaryTree](https://binarytree.dev/ "Array of Developer Productivity Tools Designed to Help You Save Time") to create markdown tables.
+
+You can use [BinaryTree](# "Array of Developer Productivity Tools Designed to Help You Save Time") to create markdown tables.
 
 # Images
 
