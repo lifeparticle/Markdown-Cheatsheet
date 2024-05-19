@@ -40,7 +40,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 	* [Relative](#relative)
 	* [Auto](#auto)
 	* [Section](#section)
-        * [Hover](#hover)
+	* [Hover](#hover)
 - [Images](#images)
 	* [Theme](#theme)
 - [Badges](#badges)
