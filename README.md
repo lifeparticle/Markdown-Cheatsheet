@@ -652,6 +652,12 @@ Visit https://github.com/
 
 Visit https://github.com/
 
+```markdown
+Email at example@example.com
+```
+
+Email at example@example.com
+
 ## Section
 
 <img width="503" alt="Screen Shot 2024-02-04 at 12 49 07 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/fd69c9d9-82d7-44ce-a1ed-2e8d48881097">
