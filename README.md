@@ -9,7 +9,7 @@
 > [!IMPORTANT]
 > Check out the official documentation on [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn more about writing and formatting syntax.
 
-Markdown is a method for writing formatted text using a simple plain text format. This guide will provide you with a comprehensive understanding of the key commands in Markdown, aimed at enhancing your GitHub README.
+Markdown is a way of writing rich-text (formatted text) content using plain text formatting syntax. It is also a tool that converts the plain text formatting to HTML. In 2004, [John Gruber](https://daringfireball.net/projects/markdown/) developed Markdown. This guide will provide you with a comprehensive understanding of the key commands in Markdown, aimed at enhancing your GitHub README.
 
 You can read the full article on [Medium](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0), but here's a brief overview of the most popular commands.
 
