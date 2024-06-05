@@ -60,6 +60,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Color models](#color-models)
 - [View Code](#view-code)
 - [Code in titles](#code-in-titles)
+- [Render Labels](#render-labels)
 - [Miscellaneous](#miscellaneous)
 	* [Comments](#comments)
 	* [Escaping Markdown Characters](#escaping-markdown-characters)
@@ -1077,6 +1078,12 @@ In issue, and pull request titles.
 `TEST` ISSUE
 
 ```
+
+# Render Labels
+
+Labels referenced by URLs in Markdown are now automatically rendered.
+
+https://github.com/lifeparticle/Markdown-Cheatsheet/labels/documentation
 
 <img width="520" alt="Screen Shot 2024-06-05 at 12 11 37 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/33002e7e-e75b-44c8-8585-933df7a1a7a8">
 
