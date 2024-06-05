@@ -59,6 +59,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Reference issues and pull requests](#reference-issues-and-pull-requests)
 - [Color models](#color-models)
 - [View Code](#view-code)
+- [Code in titles](#code-in-titles)
 - [Miscellaneous](#miscellaneous)
 	* [Comments](#comments)
 	* [Escaping Markdown Characters](#escaping-markdown-characters)
@@ -1055,6 +1056,21 @@ Click either the Code (top right) or Raw (top left) option to see the markdown c
 > Make sure you have clicked the markdown file to see the above view.
 
 <img width="907" alt="file" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/a4423154-69de-43c1-aeb5-5348b9f05088">
+
+# Code in titles
+
+In issue, and pull request titles.
+
+`TEST` ISSUE
+
+```md
+
+`TEST` ISSUE
+
+```
+
+<img width="520" alt="Screen Shot 2024-06-05 at 12 11 37 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/33002e7e-e75b-44c8-8585-933df7a1a7a8">
+
 
 # Miscellaneous
 
