@@ -177,6 +177,9 @@ _The quick brown fox jumps over the lazy dog._
 
 ## Blockquotes
 
+Mac: <kbd>command+shift+.</kbd>
+Windows: <kbd>control+shift+.</kbd>
+
 ```markdown
 > The quick brown fox jumps over the lazy dog.
 > The quick brown fox jumps over the lazy dog.
@@ -752,6 +755,9 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 
 ## Ordered
 
+Mac: <kbd>command+shift+7</kbd>
+Windows: <kbd>control+shift+7</kbd>
+
 ```markdown
 1. One
 2. Two
@@ -784,6 +790,9 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
     1. Second level
 
 ## Unordered
+
+Mac: <kbd>command+shift+8</kbd>
+Windows: <kbd>control+shift+8</kbd>
 
 ```markdown
 * 1
