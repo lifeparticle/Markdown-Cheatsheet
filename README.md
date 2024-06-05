@@ -1079,6 +1079,9 @@ In issue, and pull request titles.
 
 ```
 
+<img width="520" alt="Screen Shot 2024-06-05 at 12 11 37 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/33002e7e-e75b-44c8-8585-933df7a1a7a8">
+
+
 # Reference Labels
 
 Labels referenced by URLs in Markdown are now automatically rendered.
@@ -1088,8 +1091,6 @@ https://github.com/lifeparticle/Markdown-Cheatsheet/labels/documentation
 ```md
 https://github.com/lifeparticle/Markdown-Cheatsheet/labels/documentation
 ```
-
-<img width="520" alt="Screen Shot 2024-06-05 at 12 11 37 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/33002e7e-e75b-44c8-8585-933df7a1a7a8">
 
 
 # Miscellaneous
