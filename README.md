@@ -277,6 +277,7 @@ Using [MathJax](#mathematical-expressions-19-july-2022) syntax:
 
 A class method is an instance method of the class object. When a new class is created, an object of type `Class` is initialized and assigned to a global constant (Mobile in this case).
 
+You can use <kbd>command + e </kbd> on Mac or <kbd>control + e</kbd> on Windows to insert inline code.
 
 ## Code block
 
