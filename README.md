@@ -60,7 +60,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [Color models](#color-models)
 - [View Code](#view-code)
 - [Code in titles](#code-in-titles)
-- [Render Labels](#render-labels)
+- [Reference Labels](#reference-labels)
 - [Miscellaneous](#miscellaneous)
 	* [Comments](#comments)
 	* [Escaping Markdown Characters](#escaping-markdown-characters)
@@ -1079,7 +1079,7 @@ In issue, and pull request titles.
 
 ```
 
-# Render Labels
+# Reference Labels
 
 Labels referenced by URLs in Markdown are now automatically rendered.
 
