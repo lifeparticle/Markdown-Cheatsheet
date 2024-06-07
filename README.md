@@ -167,10 +167,16 @@ _The quick brown fox jumps over the lazy dog._
 
 ## Bold and Italic
 
+Mac: <kbd>command+B</kbd>
+Windows: <kbd>control+B</kbd>
+
 ```markdown
 **_The quick brown fox jumps over the lazy dog._**
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 ```
+
+Mac: <kbd>command+I</kbd>
+Windows: <kbd>control+I</kbd>
 
 **_The quick brown fox jumps over the lazy dog._**
 
@@ -1238,3 +1244,4 @@ You can write JSX in your markdown document using [MDX](https://mdxjs.com/).
 4. Markdown preview for Sublime Text 3 - [Packagecontrol](https://packagecontrol.io/packages/MarkdownPreview)
 5. Markdown preview Visual Studio Code - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 6. A collection of awesome markdown goodies - [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
+7. Markdownlint - [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2), [markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
