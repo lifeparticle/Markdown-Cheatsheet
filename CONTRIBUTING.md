@@ -5,36 +5,43 @@
 3. Sync your local master
 
     3.1.
+
     ```bash
     git remote add upstream git@github.com:lifeparticle/Markdown-Cheatsheet.git
     ```
 
     3.2.
+
     ```bash
     git fetch upstream
     ```
 
     3.3.
+
     ```bash
     git branch --set-upstream-to=upstream/main main
     ```
 
     3.4.
+
     ```bash
     git pull
     ```
 
 4. Create a branch
+
     ```bash
     git branch issue-2 # use issue_number, replace issue-2 with appropriate branch name
     git checkout issue-2
     ```
 5. Push your changes to your fork with git push
+
     ```bash
     git add .
     git commit -m"Write a meaningfull commit message"
     git push
     ```
+
 6. Create a pull request
 
     5.1 Use the url from the terminal
