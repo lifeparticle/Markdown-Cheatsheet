@@ -4,9 +4,10 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: DavidAnson/markdownlint-cli2-action@v11
-      with:
-        globs: |
-          *.md
-          !test/*.md
+      - uses: actions/checkout@v3
+      - uses: DavidAnson/markdownlint-cli2-action@v11
+        with:
+          config: "config/custom.markdownlint.jsonc"
+          globs: |
+            *.md
+            !test/*.md

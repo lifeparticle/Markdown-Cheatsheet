@@ -34,6 +34,7 @@
     git branch issue-2 # use issue_number, replace issue-2 with appropriate branch name
     git checkout issue-2
     ```
+
 5. Push your changes to your fork with git push
 
     ```bash
@@ -64,6 +65,7 @@
        e) Change the branch to your branch
 
        f) Create pull request
+
 7. Repeat
 
    ```bash
