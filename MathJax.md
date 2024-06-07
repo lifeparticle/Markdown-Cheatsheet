@@ -1,4 +1,4 @@
-## Text Color
+# Text Color
 
 Using MathJax syntax:
 
