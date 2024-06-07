@@ -139,6 +139,10 @@ The quick brown fox jumps over the lazy dog.
 
 ## Bold
 
+Mac: <kbd>command+B</kbd>
+
+Windows: <kbd>control+B</kbd>
+
 ```markdown
 **The quick brown fox jumps over the lazy dog.**
 __The quick brown fox jumps over the lazy dog.__
@@ -152,6 +156,10 @@ __The quick brown fox jumps over the lazy dog.__
 <strong>The quick brown fox jumps over the lazy dog.</strong>
 
 ## Italic
+
+Mac: <kbd>command+I</kbd>
+
+Windows: <kbd>control+I</kbd>
 
 ```markdown
 *The quick brown fox jumps over the lazy dog.*
@@ -167,16 +175,10 @@ _The quick brown fox jumps over the lazy dog._
 
 ## Bold and Italic
 
-Mac: <kbd>command+B</kbd>
-Windows: <kbd>control+B</kbd>
-
 ```markdown
 **_The quick brown fox jumps over the lazy dog._**
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 ```
-
-Mac: <kbd>command+I</kbd>
-Windows: <kbd>control+I</kbd>
 
 **_The quick brown fox jumps over the lazy dog._**
 
