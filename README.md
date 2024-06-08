@@ -2,6 +2,9 @@
 	:black_circle: The Ultimate Markdown Cheat Sheet :black_circle:
 </h1>
 
+<!-- This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
+-->
+
 <a name="top"></a>
 
 <br/>
@@ -75,7 +78,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 
 # Headings
 
-```markdown
+```md
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -93,7 +96,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 <!-- omit in toc -->
 ##### Heading 5
 
-```markdown
+```md
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
@@ -112,7 +115,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 <!-- omit in toc -->
 <h5>Heading 5</h5>
 
-```markdown
+```md
 Heading 1
 =
 Heading 2
@@ -130,7 +133,7 @@ Heading 2
 
 ## Normal
 
-```markdown
+```md
 The quick brown fox jumps over the lazy dog.
 ```
 
@@ -143,7 +146,7 @@ Mac: <kbd>command+B</kbd>
 
 Windows: <kbd>control+B</kbd>
 
-```markdown
+```md
 **The quick brown fox jumps over the lazy dog.**
 __The quick brown fox jumps over the lazy dog.__
 <strong>The quick brown fox jumps over the lazy dog.</strong>
@@ -161,7 +164,7 @@ Mac: <kbd>command+I</kbd>
 
 Windows: <kbd>control+I</kbd>
 
-```markdown
+```md
 *The quick brown fox jumps over the lazy dog.*
 _The quick brown fox jumps over the lazy dog._
 <em>The quick brown fox jumps over the lazy dog.</em>
@@ -175,7 +178,7 @@ _The quick brown fox jumps over the lazy dog._
 
 ## Bold and Italic
 
-```markdown
+```md
 **_The quick brown fox jumps over the lazy dog._**
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 ```
@@ -189,7 +192,7 @@ _The quick brown fox jumps over the lazy dog._
 Mac: <kbd>command+shift+.</kbd>
 Windows: <kbd>control+shift+.</kbd>
 
-```markdown
+```md
 > The quick brown fox jumps over the lazy dog.
 > The quick brown fox jumps over the lazy dog.
 >
@@ -218,7 +221,7 @@ Windows: <kbd>control+shift+.</kbd>
 
 ## Monospaced
 
-```markdown
+```md
 <samp>The quick brown fox jumps over the lazy dog.</samp>
 ```
 
@@ -226,7 +229,7 @@ Windows: <kbd>control+shift+.</kbd>
 
 ## Underlined
 
-```markdown
+```md
 <ins>The quick brown fox jumps over the lazy dog.</ins>
 ```
 
@@ -235,7 +238,7 @@ Windows: <kbd>control+shift+.</kbd>
 
 ## Strike-through
 
-```markdown
+```md
 ~~The quick brown fox jumps over the lazy dog.~~
 ```
 
@@ -243,7 +246,7 @@ Windows: <kbd>control+shift+.</kbd>
 
 ## Boxed
 
-```markdown
+```md
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 ```
 
@@ -251,7 +254,7 @@ Windows: <kbd>control+shift+.</kbd>
 
 ## Subscript
 
-```markdown
+```md
 log<sub>2</sub>(x)
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 ```
@@ -262,7 +265,7 @@ Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 
 ## Superscript
 
-```markdown
+```md
 2 <sup>53-1</sup> and -2 <sup>53-1</sup>
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 ```
@@ -377,7 +380,7 @@ index 309ee57..c995021 100644
 
 # Alignments
 
-```markdown
+```md
 <p align="left">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
@@ -387,7 +390,7 @@ index 309ee57..c995021 100644
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
-```markdown
+```md
 <p align="center">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
@@ -397,7 +400,7 @@ index 309ee57..c995021 100644
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
-```markdown
+```md
 <p align="right">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
@@ -407,7 +410,7 @@ index 309ee57..c995021 100644
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
-```markdown
+```md
 <h3 align="center"> My latest Medium posts </h3>
 ```
 
@@ -416,7 +419,7 @@ index 309ee57..c995021 100644
 
 # Tables
 
-```markdown
+```md
 <table>
 <tr>
 <td width="33%"">
@@ -446,7 +449,7 @@ The quick brown fox jumps over the lazy dog.
 </tr>
 </table>
 
-```markdown
+```md
 | Default | Left align | Center align | Right align |
 | - | :- | :-: | -: |
 | 9999999999 | 9999999999 | 9999999999 | 9999999999 |
@@ -490,7 +493,7 @@ Default    | Left align | Center align | Right align
 99999999   | 99999999   | 99999999     | 99999999
 9999999    | 9999999    | 9999999      | 9999999
 
-```markdown
+```md
 <table>
 <tr>
 <th>Heading 1</th>
@@ -534,7 +537,7 @@ Default    | Left align | Center align | Right align
 
 </td></tr> </table>
 
-```markdown
+```md
 | A | B | C |
 |---|---|---|
 | 1 | 2 | 3 <br/> 4 <br/> 5 |
@@ -544,7 +547,7 @@ Default    | Left align | Center align | Right align
 |---|---|---|
 | 1 | 2 | 3 <br/> 4 <br/> 5 |
 
-```markdown
+```md
 <table>
 <tr>
 <th>Before Hoisting</th>
@@ -600,7 +603,7 @@ console.log(fullName); // Dariana Trahan
 
 ## Inline
 
-```markdown
+```md
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 ```
 
@@ -608,7 +611,7 @@ console.log(fullName); // Dariana Trahan
 
 ## Reference
 
-```markdown
+```md
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
 
 [The-Ultimate-Markdown-Cheat-Sheet][1]
@@ -639,7 +642,7 @@ Some other important footnote.[^2]
 [^1]: This is footnote number one.
 [^2]: Here is the second footnote.
 
-```markdown
+```md
 Footnote.[^1]
 
 Some other important footnote.[^2]
@@ -652,7 +655,7 @@ Some other important footnote.[^2]
 
 ## Relative
 
-```markdown
+```md
 [Example of a relative link](rl.md)
 ```
 
@@ -660,13 +663,13 @@ Some other important footnote.[^2]
 
 ## Auto
 
-```markdown
+```md
 Visit https://github.com/
 ```
 
 Visit https://github.com/
 
-```markdown
+```md
 Email at example@example.com
 ```
 
@@ -684,13 +687,13 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 
 # Images
 
-```markdown
+```md
 ![alt text](https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
 ```
 
 ![alt text](https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
 
-```markdown
+```md
 ![alt text][image]
 
 [image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
@@ -700,7 +703,7 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 
 [image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
 
-```markdown
+```md
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 ```
 
@@ -737,7 +740,7 @@ The HTML `<picture>` element, along with the `prefers-color-scheme` media featur
 
 For example, the code snippet below demonstrates how to display a dark-themed BinaryTree logo when the user's device is set to a dark mode, and a light-themed BinaryTree logo for light mode settings:
 
-```markdown
+```md
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png">
@@ -753,7 +756,7 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 
 # Badges
 
-```markdown
+```md
 ![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
 ```
 
@@ -767,7 +770,7 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 Mac: <kbd>command+shift+7</kbd>
 Windows: <kbd>control+shift+7</kbd>
 
-```markdown
+```md
 1. One
 2. Two
 3. Three
@@ -777,7 +780,7 @@ Windows: <kbd>control+shift+7</kbd>
 2. Two
 3. Three
 
-```markdown
+```md
 1. First level
     1. Second level
         - Third level
@@ -803,7 +806,7 @@ Windows: <kbd>control+shift+7</kbd>
 Mac: <kbd>command+shift+8</kbd>
 Windows: <kbd>control+shift+8</kbd>
 
-```markdown
+```md
 * 1
 * 2
 * 3
@@ -832,7 +835,7 @@ Windows: <kbd>control+shift+8</kbd>
 - 3
 
 
-```markdown
+```md
 - First level
     - Second level
         - Third level
@@ -852,7 +855,7 @@ Windows: <kbd>control+shift+8</kbd>
 - First level
     - Second level
 
-```markdown
+```md
 <ul>
 <li>First item</li>
 <li>Second item</li>
@@ -870,7 +873,7 @@ Windows: <kbd>control+shift+8</kbd>
 
 ## Task
 
-```markdown
+```md
 - [x] Fix Bug 223
 - [ ] Add Feature 33
 - [ ] Add unit tests
@@ -882,25 +885,25 @@ Windows: <kbd>control+shift+8</kbd>
 
 # Buttons
 
-```markdown
+```md
 <kbd>cmd + shift + p</kbd>
 ```
 
 <kbd>cmd + shift + p</kbd>
 
-```markdown
+```md
 <kbd> <br> cmd + shift + p <br> </kbd>
 ```
 
 <kbd> <br> cmd + shift + p <br> </kbd>
 
-```markdown
+```md
 <kbd>[Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
 ```
 
 <kbd>[Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
 
-```markdown
+```md
 [<kbd>Markdown-Cheatsheet</kbd>](https://github.com/lifeparticle/Markdown-Cheatsheet)
 ```
 
@@ -910,13 +913,13 @@ Windows: <kbd>control+shift+8</kbd>
 
 <kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ↗️ <br> </kbd>
 
-```markdown
+```md
 <kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) <br> </kbd>
 ```
 
 # Collapsible items (28 July 2023)
 
-```markdown
+```md
 <details>
   <summary>Markdown</summary>
 
@@ -938,7 +941,7 @@ Windows: <kbd>control+shift+8</kbd>
 
 # Horizontal Rule
 
-```markdown
+```md
 ---
 ***
 ___
@@ -953,7 +956,7 @@ ___
 
 # Diagrams (19 July 2022)
 
-```markdown
+```md
 pie
 "Movies" : 80
 "TV shows" : 20
@@ -971,13 +974,13 @@ pie
 > [!IMPORTANT]
 > Check out the official documentation on [GitHub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) to learn more about writing and formatting MathJax syntax.
 
-```markdown
+```md
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
 
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
-```markdown
+```md
 $$
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 $$
@@ -989,7 +992,7 @@ $$
 
 # Alerts (8 January 2024)
 
-```markdown
+```md
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
@@ -1025,7 +1028,7 @@ $$
 
 In issuse:
 
-```markdown
+```md
 @lifeparticle
 ```
 
@@ -1035,7 +1038,7 @@ In issuse:
 
 In issuse:
 
-```markdown
+```md
 #1
 #10
 ```
@@ -1109,7 +1112,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet/labels/documentation
 Lorem ipsum dolor sit amet
 -->
 
-```markdown
+```md
 <!--
 Lorem ipsum dolor sit amet
 -->
@@ -1118,7 +1121,7 @@ Lorem ipsum dolor sit amet
 
 Before escaping
 
-```markdown
+```md
 *   Asterisk
 \   Backslash
 `   Backtick
@@ -1149,7 +1152,7 @@ _   Underscore
 
 After escaping
 
-```markdown
+```md
 \*   Asterisk
 \\   Backslash
 \`   Backtick
@@ -1179,7 +1182,7 @@ After escaping
 
 ## Emojis
 
-```markdown
+```md
 :octocat:
 ```
 
@@ -1192,25 +1195,29 @@ After escaping
 
 You can use `<br>` to insert a single line break. Make sure to use an em space ` `. For example:
 
-```markdown
+```md
 <table><tr><td> <br> The quick brown fox jumps over the lazy dog. <br> </td></tr></table>
 ```
 
-<table><tr><td> <br> The quick brown fox jumps over the lazy dog. <br> </td></tr></table>
+<table><tr><td> <br> 
+The quick brown fox jumps over the lazy dog. 
+<br> </td></tr></table>
 
 Or
 
-```markdown
+```md
 <table><tr><td> <br><br><br> The quick brown fox jumps over the lazy dog. <br><br><br> </td></tr></table>
 ```
 
-<table><tr><td> <br><br><br> The quick brown fox jumps over the lazy dog. <br><br><br> </td></tr></table>
+<table><tr><td> <br><br><br> 
+The quick brown fox jumps over the lazy dog. 
+<br><br><br> </td></tr></table>
 
 ## Back to top
 
 First place the following code at start of your markdown file
 
-```markdown
+```md
 <a name="top"></a>
 ```
 
@@ -1220,7 +1227,7 @@ Then use one of the following code at the place you want to return to top.
 
 [:arrow_up:](#top)
 
-```markdown
+```md
 [Back to top](#top)
 
 [:arrow_up:](#top)
