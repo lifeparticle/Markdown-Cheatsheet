@@ -732,6 +732,7 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 ```
 
 ## Theme
+
 The HTML `<picture>` element, along with the `prefers-color-scheme` media feature, enables you to dynamically adjust images according to the user's color scheme preference, providing options for both light and dark modes.
 
 For example, the code snippet below demonstrates how to display a dark-themed BinaryTree logo when the user's device is set to a dark mode, and a light-themed BinaryTree logo for light mode settings:
@@ -761,6 +762,7 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 # Lists
 
 ## Ordered
+
 Mac: <kbd>command+shift+7</kbd>
 Windows: <kbd>control+shift+7</kbd>
 
@@ -1104,6 +1106,7 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 -->
 ```
+
 ## Escaping Markdown Characters
 
 Before escaping
@@ -1130,7 +1133,7 @@ _   Underscore`
 .   Dot
 !   Exclamation mark
 <!-- omit in toc -->
-#   Hash symbol
+#   Hash symbol <!-- markdownlint-disable-line MD022 -->
 -   Hyphen symbol
 ()  Parentheses
 +   Plus symbol
@@ -1186,8 +1189,8 @@ You can use `<br>` to insert a single line break. Make sure to use an em space `
 ```
 
 <table><tr><td> <br> The
- quick brown fox jumps over the lazy dog. 
-<br> </td></tr></table>
+ quick brown fox jumps over the lazy
+  dog. <br> </td></tr></table>
 
 Or
 

@@ -1,1 +1,1 @@
-Example of a relative link.
+# Example of a relative link
