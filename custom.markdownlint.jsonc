@@ -5,6 +5,35 @@
 		"tables": false
 	},
 	"MD033": {
-		"allowed_elements": ["h1", "a", "br"]
+		"allowed_elements": [
+			"h1",
+			"h2",
+			"h3",
+			"h4",
+			"h5",
+			"a",
+			"br",
+			"kbd",
+			"strong",
+			"em",
+			"blockquote",
+			"samp",
+			"ins",
+			"table",
+			"tr",
+			"th",
+			"td",
+			"sub",
+			"sup",
+			"p",
+			"img",
+			"pre",
+			"picture",
+			"source",
+			"ul",
+			"li",
+			"details",
+			"summary"
+		]
 	}
 }
