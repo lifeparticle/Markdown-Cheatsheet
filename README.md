@@ -139,7 +139,6 @@ The quick brown fox jumps over the lazy dog.
 
 The quick brown fox jumps over the lazy dog.
 
-
 ## Bold
 
 Mac: <kbd>command+B</kbd>
@@ -234,7 +233,6 @@ Windows: <kbd>control+shift+.</kbd>
 ```
 
 <ins>The quick brown fox jumps over the lazy dog.</ins>
-
 
 ## Strike-through
 
@@ -366,7 +364,6 @@ index 309ee57..c995021 100644
 # Text in Gray
 @@ Text in Purple and bold @@
 ```
-
 
 ````
 ```diff
@@ -733,9 +730,7 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 <a href='https://binarytree.dev/' target='_blank'> <img src='https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png' /> </a>
 ```
 
-
 ## Theme
-
 The HTML `<picture>` element, along with the `prefers-color-scheme` media feature, enables you to dynamically adjust images according to the user's color scheme preference, providing options for both light and dark modes.
 
 For example, the code snippet below demonstrates how to display a dark-themed BinaryTree logo when the user's device is set to a dark mode, and a light-themed BinaryTree logo for light mode settings:
@@ -762,11 +757,9 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 
 ![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
 
-
 # Lists
 
 ## Ordered
-
 Mac: <kbd>command+shift+7</kbd>
 Windows: <kbd>control+shift+7</kbd>
 
@@ -790,7 +783,6 @@ Windows: <kbd>control+shift+7</kbd>
 3. First level
     1. Second level
 ```
-
 
 1. First level
     1. Second level
@@ -829,11 +821,9 @@ Windows: <kbd>control+shift+8</kbd>
 + 2
 + 3
 
-
 - 1
 - 2
 - 3
-
 
 ```md
 - First level
@@ -953,7 +943,6 @@ ___
 
 ___
 
-
 # Diagrams (19 July 2022)
 
 ```md
@@ -961,7 +950,6 @@ pie
 "Movies" : 80
 "TV shows" : 20
 ```
-
 
 ```mermaid
 pie
@@ -1092,7 +1080,6 @@ In issue, and pull request titles.
 
 <img width="520" alt="Screen Shot 2024-06-05 at 12 11 37 pm" src="https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/33002e7e-e75b-44c8-8585-933df7a1a7a8">
 
-
 # Reference Labels
 
 Labels referenced by URLs in Markdown are now automatically rendered.
@@ -1102,7 +1089,6 @@ https://github.com/lifeparticle/Markdown-Cheatsheet/labels/documentation
 ```md
 https://github.com/lifeparticle/Markdown-Cheatsheet/labels/documentation
 ```
-
 
 # Miscellaneous
 
@@ -1190,7 +1176,6 @@ After escaping
 
 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
-
 ## Line break
 
 You can use `<br>` to insert a single line break. Make sure to use an em space ` `. For example:
@@ -1199,8 +1184,8 @@ You can use `<br>` to insert a single line break. Make sure to use an em space `
 <table><tr><td> <br> The quick brown fox jumps over the lazy dog. <br> </td></tr></table>
 ```
 
-<table><tr><td> <br> 
-The quick brown fox jumps over the lazy dog. 
+<table><tr><td> <br> The
+ quick brown fox jumps over the lazy dog. 
 <br> </td></tr></table>
 
 Or
@@ -1209,8 +1194,8 @@ Or
 <table><tr><td> <br><br><br> The quick brown fox jumps over the lazy dog. <br><br><br> </td></tr></table>
 ```
 
-<table><tr><td> <br><br><br> 
-The quick brown fox jumps over the lazy dog. 
+<table><tr><td> <br><br><br> The
+ quick brown fox jumps over the lazy dog. 
 <br><br><br> </td></tr></table>
 
 ## Back to top
