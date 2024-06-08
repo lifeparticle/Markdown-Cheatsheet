@@ -73,5 +73,4 @@ Using MathJax syntax:
 | YellowGreen     | `$\color{YellowGreen}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                | $\color{YellowGreen}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$ |
 | YellowOrange    | `$\color{YellowOrange}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`               | $\color{YellowOrange}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$|
 
-
 [Source](https://en.wikibooks.org/wiki/LaTeX/Colors#Adding_the_color_package)
