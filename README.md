@@ -484,12 +484,14 @@ Default    | Left align | Center align | Right align
 | 99999999   | 99999999   | 99999999     | 99999999    |
 | 9999999    | 9999999    | 9999999      | 9999999     |
 
-Default    | Left align | Center align | Right align<!-- markdownlint-disable-line MD055 -->
----------- | :--------- | :----------: | ----------:<!-- markdownlint-disable-line MD055 -->
-9999999999 | 9999999999 | 9999999999   | 9999999999<!-- markdownlint-disable-line MD055 -->
-999999999  | 999999999  | 999999999    | 999999999<!-- markdownlint-disable-line MD055 -->
-99999999   | 99999999   | 99999999     | 99999999<!-- markdownlint-disable-line MD055 -->
-9999999    | 9999999    | 9999999      | 9999999<!-- markdownlint-disable-line MD055 -->
+<!-- markdownlint-disable MD055 -->
+Default    | Left align | Center align | Right align
+---------- | :--------- | :----------: | ----------:
+9999999999 | 9999999999 | 9999999999   | 9999999999
+999999999  | 999999999  | 999999999    | 999999999
+99999999   | 99999999   | 99999999     | 99999999
+9999999    | 9999999    | 9999999      | 9999999
+<!-- markdownlint-enable MD055 -->
 
 ```md
 <table>
