@@ -484,12 +484,12 @@ Default    | Left align | Center align | Right align
 | 99999999   | 99999999   | 99999999     | 99999999    |
 | 9999999    | 9999999    | 9999999      | 9999999     |
 
-Default    | Left align | Center align | Right align
----------- | :--------- | :----------: | ----------:
-9999999999 | 9999999999 | 9999999999   | 9999999999
-999999999  | 999999999  | 999999999    | 999999999
-99999999   | 99999999   | 99999999     | 99999999
-9999999    | 9999999    | 9999999      | 9999999
+Default    | Left align | Center align | Right align<!-- markdownlint-disable-line MD055 -->
+---------- | :--------- | :----------: | ----------:<!-- markdownlint-disable-line MD055 -->
+9999999999 | 9999999999 | 9999999999   | 9999999999<!-- markdownlint-disable-line MD055 -->
+999999999  | 999999999  | 999999999    | 999999999<!-- markdownlint-disable-line MD055 -->
+99999999   | 99999999   | 99999999     | 99999999<!-- markdownlint-disable-line MD055 -->
+9999999    | 9999999    | 9999999      | 9999999<!-- markdownlint-disable-line MD055 -->
 
 ```md
 <table>
@@ -1112,63 +1112,63 @@ Lorem ipsum dolor sit amet
 Before escaping
 
 ```md
-*   Asterisk
-\   Backslash
-`   Backtick
-{}  Curly braces
-.   Dot
-!   Exclamation mark
-#   Hash symbol
--   Hyphen symbol
-()  Parentheses
-+   Plus symbol
-[]  Square brackets
-_   Underscore`
+* Asterisk
+\ Backslash
+` Backtick
+{} Curly braces
+. Dot
+! Exclamation mark
+# Hash symbol
+- Hyphen symbol
+() Parentheses
++ Plus symbol
+[] Square brackets
+_ Underscore`
 ```
 
-*   Asterisk
-\   Backslash
-`   Backtick
-{}  Curly braces
-.   Dot
-!   Exclamation mark
+* Asterisk
+\ Backslash
+` Backtick
+{} Curly braces
+. Dot
+! Exclamation mark
 <!-- omit in toc -->
-#   Hash symbol <!-- markdownlint-disable-line MD022 -->
--   Hyphen symbol
-()  Parentheses
-+   Plus symbol
-[]  Square brackets
-_   Underscore
+# Hash symbol <!-- markdownlint-disable-line MD022 -->
+- Hyphen symbol
+() Parentheses
++ Plus symbol
+[] Square brackets
+_ Underscore
 
 After escaping
 
 ```md
-\*   Asterisk
-\\   Backslash
-\`   Backtick
-\{}  Curly braces
-\.   Dot
-\!   Exclamation mark
-\#   Hash symbol
-\-   Hyphen symbol
-\()  Parentheses
-\+   Plus symbol
-\[]  Square brackets
-\_   Underscore
+\* Asterisk
+\\ Backslash
+\` Backtick
+\{} Curly braces
+\. Dot
+\! Exclamation mark
+\# Hash symbol
+\- Hyphen symbol
+\() Parentheses
+\+ Plus symbol
+\[] Square brackets
+\_ Underscore
 ```
 
-\*   Asterisk
-\\   Backslash
-\`   Backtick
-\{}  Curly braces
-\.   Dot
-\!   Exclamation mark
-\#   Hash symbol
-\-   Hyphen symbol
-\()  Parentheses
-\+   Plus symbol
-\[]  Square brackets
-\_   Underscore
+\* Asterisk
+\\ Backslash
+\` Backtick
+\{} Curly braces
+\. Dot
+\! Exclamation mark
+\# Hash symbol
+\- Hyphen symbol
+\() Parentheses
+\+ Plus symbol
+\[] Square brackets
+\_ Underscore
 
 ## Emojis
 
