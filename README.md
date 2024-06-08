@@ -828,23 +828,23 @@ Windows: <kbd>control+shift+8</kbd>
 
 ```md
 - First level
-    - Second level
-        - Third level
-            - Fourth level
+  - Second level
+    - Third level
+      - Fourth level
 - First level
-    - Second level
+  - Second level
 - First level
-    - Second level
+  - Second level
 ```
 
 - First level
-    - Second level
-        - Third level
-            - Fourth level
+  - Second level
+    - Third level
+      - Fourth level
 - First level
-    - Second level
+  - Second level
 - First level
-    - Second level
+  - Second level
 
 ```md
 <ul>
