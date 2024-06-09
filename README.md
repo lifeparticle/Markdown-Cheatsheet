@@ -332,11 +332,9 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 <!-- markdownlint-disable MD040 -->
 
 ````
-
 ```java
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
-
 ````
 
 <!-- markdownlint-enable MD040 -->
@@ -1103,10 +1101,8 @@ https://github.com/lifeparticle/Markdown-Cheatsheet/pull/10
 # Color models
 
 ```md
-
 `#ffffff`
 `#000000`
-
 ```
 
 [Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
