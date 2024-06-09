@@ -189,6 +189,7 @@ _The quick brown fox jumps over the lazy dog._
 ## Blockquotes
 
 Mac: <kbd>command+shift+.</kbd>
+
 Windows: <kbd>control+shift+.</kbd>
 
 ```md
@@ -310,6 +311,8 @@ You can use <kbd>command + e </kbd> on Mac or <kbd>control + e</kbd> on Windows 
 
 ## Code block
 
+<!-- markdownlint-disable MD040 -->
+
 ```
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
@@ -319,6 +322,8 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
 ````
+
+<!-- markdownlint-enable MD040 -->
 
 ```java
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
