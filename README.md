@@ -76,7 +76,6 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [MDX](#mdx)
 - [Tools](#tools)
 
-
 # Headings
 
 ```md
@@ -194,28 +193,43 @@ Windows: <kbd>control+shift+.</kbd>
 
 ```md
 > The quick brown fox jumps over the lazy dog.
+
+<br>
+
 > The quick brown fox jumps over the lazy dog.
 >
 > The quick brown fox jumps over the lazy dog.
 >
 > The quick brown fox jumps over the lazy dog.
+
+<br>
+
 > The quick brown fox jumps over the lazy dog.
 >> The quick brown fox jumps over the lazy dog.
 >>> The quick brown fox jumps over the lazy dog.
+
+<br>
+
 > **The quick brown fox** *jumps over the lazy dog.*
 ```
 
 > The quick brown fox jumps over the lazy dog.
 
+<br>
+
 > The quick brown fox jumps over the lazy dog.
 >
 > The quick brown fox jumps over the lazy dog.
 >
 > The quick brown fox jumps over the lazy dog.
 
+<br>
+
 > The quick brown fox jumps over the lazy dog.
 >> The quick brown fox jumps over the lazy dog.
 >>> The quick brown fox jumps over the lazy dog.
+
+<br>
 
 > **The quick brown fox** *jumps over the lazy dog.*
 
@@ -989,14 +1003,22 @@ $$
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
+<br>
+
 > [!TIP]
 > Additional advice to aid users in achieving better outcomes.
+
+<br>
 
 > [!IMPORTANT]
 > Vital information required for users to attain success.
 
+<br>
+
 > [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
+
+<br>
 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
@@ -1005,14 +1027,22 @@ $$
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
+<br>
+
 > [!TIP]
 > Additional advice to aid users in achieving better outcomes.
+
+<br>
 
 > [!IMPORTANT]
 > Vital information required for users to attain success.
 
+<br>
+
 > [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
+
+<br>
 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
@@ -1244,4 +1274,4 @@ You can write JSX in your markdown document using [MDX](https://mdxjs.com/).
 4. Markdown preview for Sublime Text 3 - [Packagecontrol](https://packagecontrol.io/packages/MarkdownPreview)
 5. Markdown preview Visual Studio Code - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 6. A collection of awesome markdown goodies - [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
-7. Markdownlint - [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2), [markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
+7. Markdownlint - [markdownlint](https://github.com/DavidAnson/markdownlint), [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2), [markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
