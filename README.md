@@ -849,6 +849,8 @@ Windows: <kbd>control+shift+8</kbd>
 - 3
 ```
 
+<!-- markdownlint-disable MD004 -->
+
 * 1
 * 2
 * 3
@@ -856,6 +858,8 @@ Windows: <kbd>control+shift+8</kbd>
 + 1
 + 2
 + 3
+
+<!-- markdownlint-enable MD004 -->
 
 - 1
 - 2
@@ -1158,7 +1162,7 @@ Lorem ipsum dolor sit amet
 
 ## Escaping Markdown Characters
 
-### Before escaping
+**Before escaping**
 
 ```md
 * Asterisk
@@ -1179,7 +1183,7 @@ Lorem ipsum dolor sit amet
 _ Underscore`
 ```
 
-* Asterisk
+* Asterisk <!-- markdownlint-disable-line MD004 -->
 \ Backslash
 ` Backtick
 {} Curly braces
@@ -1192,12 +1196,12 @@ _ Underscore`
 
 () Parentheses
 
-+ Plus symbol
++ Plus symbol <!-- markdownlint-disable-line MD004 -->
 
 [] Square brackets
 _ Underscore
 
-### After escaping
+**After escaping**
 
 ```md
 \* Asterisk
