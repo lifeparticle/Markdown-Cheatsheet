@@ -1,5 +1,5 @@
 <h1 align="center">
-	:black_circle: The Ultimate Markdown Cheat Sheet :black_circle:
+  :black_circle: The Ultimate Markdown Cheat Sheet :black_circle:
 </h1>
 
 <!-- This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
@@ -942,9 +942,9 @@ Windows: <kbd>control+shift+8</kbd>
 <details>
   <summary>Markdown</summary>
 
--  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
--  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
--  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+- <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+- <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+- <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
 
 </details>
 
@@ -958,8 +958,10 @@ ___
 
 ---
 
+<!-- markdownlint-disable-next-line MD035 -->
 ***
 
+<!-- markdownlint-disable-next-line MD035 -->
 ___
 
 # Diagrams (19 July 2022)
@@ -1141,7 +1143,7 @@ Lorem ipsum dolor sit amet
 
 ## Escaping Markdown Characters
 
-Before escaping
+### Before escaping
 
 ```md
 * Asterisk
@@ -1151,9 +1153,13 @@ Before escaping
 . Dot
 ! Exclamation mark
 # Hash symbol
+
 - Hyphen symbol
+
 () Parentheses
+
 + Plus symbol
+
 [] Square brackets
 _ Underscore`
 ```
@@ -1166,13 +1172,17 @@ _ Underscore`
 ! Exclamation mark
 <!-- omit in toc -->
 # Hash symbol <!-- markdownlint-disable-line MD022 -->
+
 - Hyphen symbol
+
 () Parentheses
+
 + Plus symbol
+
 [] Square brackets
 _ Underscore
 
-After escaping
+### After escaping
 
 ```md
 \* Asterisk
@@ -1214,6 +1224,7 @@ After escaping
 
 ## Line break
 
+<!-- markdownlint-disable-next-line MD038 -->
 You can use `<br>` to insert a single line break. Make sure to use an em space ` `. For example:
 
 ```md
@@ -1231,8 +1242,8 @@ Or
 ```
 
 <table><tr><td> <br><br><br> The
- quick brown fox jumps over the lazy dog. 
-<br><br><br> </td></tr></table>
+ quick brown fox jumps over the lazy
+  dog. <br><br><br> </td></tr></table>
 
 ## Back to top
 
