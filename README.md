@@ -1321,6 +1321,8 @@ You can write JSX in your markdown document using [MDX](https://mdxjs.com/).
 6. A collection of awesome markdown goodies - [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 7. Markdownlint - [markdownlint](https://github.com/DavidAnson/markdownlint), [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2), [markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action), [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
+---
+
 <div align="center">
 
   This README has been optimized for accessibility based on GitHub's blogpost
