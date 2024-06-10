@@ -416,6 +416,7 @@ index 309ee57..c995021 100644
 ```
 
 <p align="left">
+<!-- markdownlint-disable-next-line MD013 -->
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
@@ -426,6 +427,7 @@ index 309ee57..c995021 100644
 ```
 
 <p align="center">
+<!-- markdownlint-disable-next-line MD013 -->
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
@@ -436,6 +438,7 @@ index 309ee57..c995021 100644
 ```
 
 <p align="right">
+<!-- markdownlint-disable-next-line MD013 -->
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
 
@@ -738,6 +741,7 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 ```
 
+<!-- markdownlint-disable-next-line MD013 -->
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
@@ -758,6 +762,7 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 [![BinaryTree](https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png)](https://binarytree.dev/)
 ```
 
+<!-- markdownlint-disable-next-line MD013 -->
 <a href='https://binarytree.dev/' target='_blank'> <img src='https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png' /> </a>
 
 ```md
@@ -943,6 +948,7 @@ Windows: <kbd>control+shift+8</kbd>
 
 ## Button with emoji
 
+<!-- markdownlint-disable-next-line MD013 -->
 <kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ↗️ <br> </kbd>
 
 ```md
@@ -1004,6 +1010,7 @@ pie
 # Mathematical expressions (19 July 2022)
 
 > [!IMPORTANT]
+<!-- markdownlint-disable-next-line MD013 -->
 > Check out the official documentation on [GitHub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) to learn more about writing and formatting MathJax syntax.
 
 ```md
@@ -1245,7 +1252,7 @@ _ Underscore
 
 ## Line break
 
-<!-- markdownlint-disable-next-line MD038 -->
+<!-- markdownlint-disable-next-line MD038 MD013 -->
 You can use `<br>` to insert a single line break. Make sure to use an em space ` `. For example:
 
 ```md
