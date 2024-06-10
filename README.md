@@ -1010,7 +1010,6 @@ pie
 # Mathematical expressions (19 July 2022)
 
 > [!IMPORTANT]
-<!-- markdownlint-disable-next-line MD013 -->
 > Check out the official documentation on [GitHub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) to learn more about writing and formatting MathJax syntax.
 
 ```md
@@ -1252,7 +1251,7 @@ _ Underscore
 
 ## Line break
 
-<!-- markdownlint-disable-next-line MD038 MD013 -->
+<!-- markdownlint-disable-next-line MD038 -->
 You can use `<br>` to insert a single line break. Make sure to use an em space ` `. For example:
 
 ```md
