@@ -33,7 +33,8 @@
 			"ul",
 			"li",
 			"details",
-			"summary"
+			"summary",
+			"div"
 		]
 	},
 	"MD034": false
