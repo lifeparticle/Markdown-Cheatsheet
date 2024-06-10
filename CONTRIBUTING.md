@@ -72,3 +72,9 @@
    git checkout master
    git pull
    ```
+
+# Lint
+
+```shell
+markdownlint-cli2 "**/*.md" --config ./.markdownlint.json
+```
