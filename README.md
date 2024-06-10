@@ -123,10 +123,10 @@ Heading 2
 ```
 
 <!-- omit in toc -->
-Heading 1
+Heading 1 <!-- markdownlint-disable MD003 -->
 =
 <!-- omit in toc -->
-Heading 2
+Heading 2 <!-- markdownlint-disable MD003 -->
 -
 
 # Text styles
@@ -153,6 +153,7 @@ __The quick brown fox jumps over the lazy dog.__
 
 **The quick brown fox jumps over the lazy dog.**
 
+<!-- markdownlint-disable-next-line MD050 -->
 __The quick brown fox jumps over the lazy dog.__
 
 <strong>The quick brown fox jumps over the lazy dog.</strong>
@@ -171,6 +172,7 @@ _The quick brown fox jumps over the lazy dog._
 
 *The quick brown fox jumps over the lazy dog.*
 
+<!-- markdownlint-disable-next-line MD049 -->
 _The quick brown fox jumps over the lazy dog._
 
 <em>The quick brown fox jumps over the lazy dog.</em>
@@ -181,7 +183,7 @@ _The quick brown fox jumps over the lazy dog._
 **_The quick brown fox jumps over the lazy dog._**
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 ```
-
+<!-- markdownlint-disable-next-line MD049 -->
 **_The quick brown fox jumps over the lazy dog._**
 
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
@@ -717,6 +719,7 @@ Email at example@example.com
 
 You can use [BinaryTree](https://binarytree.dev/ "Array of Developer Productivity Tools Designed to Help You Save Time") to create markdown tables.
 
+<!-- markdownlint-disable MD051 -->
 You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to Help You Save Time") to create markdown tables.
 
 # Images
@@ -1170,7 +1173,7 @@ Lorem ipsum dolor sit amet
 
 ## Escaping Markdown Characters
 
-**Before escaping**
+- **Before escaping**
 
 ```md
 * Asterisk
@@ -1209,7 +1212,7 @@ _ Underscore`
 [] Square brackets
 _ Underscore
 
-**After escaping**
+- **After escaping**
 
 ```md
 \* Asterisk
