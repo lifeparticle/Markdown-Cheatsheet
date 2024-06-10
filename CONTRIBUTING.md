@@ -35,7 +35,13 @@
     git checkout issue-2
     ```
 
-5. Push your changes to your fork with git push
+5. ddd
+
+    ```shell
+    markdownlint-cli2 "**/*.md" --config ./.markdownlint.json
+    ```
+
+6. Push your changes to your fork with git push
 
     ```bash
     git add .
@@ -43,16 +49,16 @@
     git push
     ```
 
-6. Create a pull request
+7. Create a pull request
 
-    6.1 Use the url from the terminal
+    7.1 Use the url from the terminal
 
     ```bash
     remote: Create a pull request for 'issue-2' on GitHub by visiting:
     remote:      https://github.com/........................
     ```
 
-   6.2 If you're haveing problem finding the url
+   7.2 If you're haveing problem finding the url
 
       a) [Markdown-Cheatsheet Pull requests](https://github.com/lifeparticle/Markdown-Cheatsheet/pulls)
 
@@ -66,15 +72,9 @@
 
       f) Create pull request
 
-7. Repeat
+8. Repeat
 
    ```bash
    git checkout master
    git pull
    ```
-
-# Lint
-
-```shell
-markdownlint-cli2 "**/*.md" --config ./.markdownlint.json
-```

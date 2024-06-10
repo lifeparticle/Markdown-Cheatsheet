@@ -419,7 +419,7 @@ index 309ee57..c995021 100644
 
 <p align="left">
 <!-- markdownlint-disable-next-line MD013 -->
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10" alt="Vintage-style alarm clock with Roman numerals on its face, set on a surface covered with newspaper, with a blurred background."/>
 </p>
 
 ```md
@@ -430,7 +430,7 @@ index 309ee57..c995021 100644
 
 <p align="center">
 <!-- markdownlint-disable-next-line MD013 -->
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10" alt="Vintage-style alarm clock with Roman numerals on its face, set on a surface covered with newspaper, with a blurred background."/>
 </p>
 
 ```md
@@ -441,7 +441,7 @@ index 309ee57..c995021 100644
 
 <p align="right">
 <!-- markdownlint-disable-next-line MD013 -->
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10" alt="Vintage-style alarm clock with Roman numerals on its face, set on a surface covered with newspaper, with a blurred background."/>
 </p>
 
 ```md
@@ -745,15 +745,15 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 ```
 
 <!-- markdownlint-disable-next-line MD013 -->
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10" alt="alt text"/>
 
-<img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
+<img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" alt="GIF of students in a grand hall joyfully throwing their graduation caps into the air in celebration, with large banners and lit torches decorating the background."/>
 
 ```md
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 ```
 
-<img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
+<img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" alt="Green button with the text 'theultimatemarkdowncheatsheet' in white letters."/>
 
 ```md
 <img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
@@ -766,7 +766,7 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 ```
 
 <!-- markdownlint-disable-next-line MD013 -->
-<a href='https://binarytree.dev/' target='_blank'> <img src='https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png' /> </a>
+<a href='https://binarytree.dev/' target='_blank'> <img src='https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png' alt="Logo of BinaryTree featuring a hexagonal icon and the text 'BINARY TREE' in capital letters to the right of the icon."/> </a>
 
 ```md
 <a href='https://binarytree.dev/' target='_blank'> <img src='https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png' /> </a>
