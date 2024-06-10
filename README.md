@@ -8,9 +8,6 @@
     <img src="https://github.com/lifeparticle/Markdown-Cheatsheet/actions/workflows/readme-checker.yml/badge.svg" alt=".github/workflows/readme-checker.yml">
   </a>
 
-  This README has been optimized for accessibility based on GitHub's blogpost
-  "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
-
 </div>
 
 <a name="top"></a>
@@ -1323,3 +1320,10 @@ You can write JSX in your markdown document using [MDX](https://mdxjs.com/).
 5. Markdown preview Visual Studio Code - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 6. A collection of awesome markdown goodies - [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 7. Markdownlint - [markdownlint](https://github.com/DavidAnson/markdownlint), [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2), [markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action), [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+<div align="center">
+
+  This README has been optimized for accessibility based on GitHub's blogpost
+  "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
+
+</div>
