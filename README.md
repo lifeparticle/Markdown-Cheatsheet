@@ -774,7 +774,7 @@ Alt text and title are optional.
 ```md
 ![alt text][image]
 
-[image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
+[image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80 "Title text"
 ```
 
 ![alt text][image]
@@ -855,18 +855,18 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 
 ```md
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only" width="350" align="right" alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only" width="350"  alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only" width="350" align="right" alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only" width="350"  alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
 </a>
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only" width="350" align="right" alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only" width="350"  alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only" width="350" align="right" alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only" width="350"  alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
 </a>
 
 # Badges
