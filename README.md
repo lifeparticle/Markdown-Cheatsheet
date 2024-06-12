@@ -852,8 +852,8 @@ For example, the code snippet below demonstrates how to display a dark-themed Bi
 [![Badge][Logo-dark]](https://binarytree.dev#gh-dark-mode-only)
 [![Badge][Logo-light]](https://binarytree.dev#gh-light-mode-only)
 
-[Logo-dark]: https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only
-[Logo-light]: https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only
+[Logo-light]: https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only
+[Logo-dark]: https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only
 
 ```md
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
