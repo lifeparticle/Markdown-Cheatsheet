@@ -35,7 +35,7 @@
     git checkout issue-2
     ```
 
-5. ddd
+5. Run lint
 
     ```shell
     markdownlint-cli2 "**/*.md" --config ./.markdownlint.json
