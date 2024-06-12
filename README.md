@@ -51,7 +51,7 @@
 - [Images](#images)
   - [Theme](#theme)
     - [Using picture tag](#using-picture-tag)
-		- [Using dark and light mode](#using-dark-and-light-mode)
+    - [Using dark and light mode](#using-dark-and-light-mode)
 - [Badges](#badges)
 - [Lists](#lists)
   - [Ordered](#ordered)
