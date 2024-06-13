@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-100.0, 40.0],
+              [-99.0, 40.0],
+              [-99.0, 41.0],
+              [-100.0, 41.0],
+              [-100.0, 40.0]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Fictional Park",
+          "description": "A large, fictional park for demonstration purposes."
+        }
+      }
+    ]
+  }

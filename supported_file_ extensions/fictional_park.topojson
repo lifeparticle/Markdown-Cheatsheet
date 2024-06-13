@@ -1,0 +1,25 @@
+{
+  "type": "Topology",
+  "objects": {
+    "fictional_park": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Polygon",
+          "arcs": [[0]],
+          "properties": {
+            "name": "Fictional Park",
+            "description": "A large, fictional park for demonstration purposes."
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [
+    [[-100, 40], [-99, 40], [-99, 41], [-100, 41], [-100, 40]]
+  ],
+  "transform": {
+    "scale": [0.0001, 0.0001],
+    "translate": [-100, 40]
+  }
+}
