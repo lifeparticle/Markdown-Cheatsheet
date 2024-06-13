@@ -134,7 +134,7 @@ This guide will provide you with a comprehensive understanding of the key comman
 <!-- omit in toc -->
 <h5>Heading 5</h5>
 <!-- omit in toc -->
-<h6>Heading 5</h6>
+<h6>Heading 6</h6>
 
 ```md
 Heading 1
