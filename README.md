@@ -48,6 +48,7 @@
   - [Section](#section)
   - [Hover](#hover)
   - [Enclosed](#enclosed)
+  - [Highlight words and link it to a URL](#highlight-words-and-link-it-to-a-URL)
 - [Images](#images)
   - [Theme](#theme)
     - [Using picture tag](#using-picture-tag)
@@ -764,6 +765,16 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 ```
 
 <https://github.com/>
+
+## Highlight words and link it to a URL
+ 
+```md
+[BinaryTree](https://binarytree.dev/)
+```
+
+[BinaryTree](https://binarytree.dev/)
+
+![Jun-15-2024 09-55-51](https://github.com/lifeparticle/Markdown-Cheatsheet/assets/1612112/68d9c7a9-6b05-472f-bbc6-c1e180674502)
 
 # Images
 
