@@ -64,8 +64,8 @@
 - [Diagrams (19 July 2022)](#diagrams-19-july-2022)
 - [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
 - [Alerts (8 January 2024)](#alerts-8-january-2024)
-- [Mention people and teams](#mention-people-andteams)
-- [Reference issues and pull requests](#reference-issues-and-pullrequests)
+- [Mention people and teams](#mention-people-and-teams)
+- [Reference issues and pull requests](#reference-issues-and-pull-requests)
 - [Color models](#color-models)
 - [View Code](#view-code)
 - [Code in titles](#code-in-titles)
@@ -1160,7 +1160,7 @@ $$
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
 
-# Mention people and teams
+# Mention people and teams
 
 In issuse:
 
@@ -1170,7 +1170,7 @@ In issuse:
 
 [Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
-# Reference issues and pull requests
+# Reference issues and pull requests
 
 In issuse:
 
