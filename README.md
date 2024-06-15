@@ -1088,11 +1088,13 @@ ___
 
 # Diagrams (19 July 2022)
 
-```md
+````
+```mermaid
 pie
 "Movies" : 80
 "TV shows" : 20
 ```
+````
 
 ```mermaid
 pie
