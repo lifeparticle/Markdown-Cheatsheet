@@ -355,10 +355,10 @@ endsolid cube
 
 ## GIF
 
-<img src="./ruby.gif" alt="GIF of students in a grand hall joyfully throwing their graduation caps into the air in celebration, with large banners and lit torches decorating the background."/>
+<img src="./ruby.gif" alt="A terminal screen displaying the Interactive Ruby (irb) environment."/>
 
 ```md
-<img src="./ruby.gif" alt="GIF of students in a grand hall joyfully throwing their graduation caps into the air in celebration, with large banners and lit torches decorating the background."/>
+<img src="./ruby.gif" alt="A terminal screen displaying the Interactive Ruby (irb) environment."/>
 ```
 
 ## JPEG
