@@ -21,7 +21,7 @@ pie
 "TV shows" : 20
 ```
 
-````
+````md
 ```mermaid
 pie
 "Movies" : 80
@@ -58,7 +58,7 @@ pie
   }
 ```
 
-````
+````md
 ```geojson
 {
     "type": "FeatureCollection",
@@ -117,7 +117,7 @@ pie
 }
 ```
 
-````
+````md
 ```topojson
 {
   "type": "Topology",
@@ -238,7 +238,7 @@ solid cube
 endsolid cube
 ```
 
-````
+````md
 ```stl
 solid cube
   facet normal 0 0 0
@@ -376,7 +376,7 @@ endsolid cube
 [] Task 2
 ```
 
-````
+````md
 ```txt
 [x] Task 1
 [] Task 2

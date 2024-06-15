@@ -1088,7 +1088,7 @@ ___
 
 # Diagrams (19 July 2022)
 
-````
+````md
 ```mermaid
 pie
 "Movies" : 80
