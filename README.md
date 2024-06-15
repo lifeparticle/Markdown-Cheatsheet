@@ -48,7 +48,7 @@
   - [Section](#section)
   - [Hover](#hover)
   - [Enclosed](#enclosed)
-  - [Highlight words and link it to a URL](#highlight-words-and-link-it-to-a-URL)
+  - [Highlight words and link it to a URL](#highlight-words-and-link-it-to-a-url)
 - [Images](#images)
   - [Theme](#theme)
     - [Using picture tag](#using-picture-tag)
@@ -767,7 +767,7 @@ You can use [BinaryTree](## "Array of Developer Productivity Tools Designed to H
 <https://github.com/>
 
 ## Highlight words and link it to a URL
- 
+
 ```md
 [BinaryTree](https://binarytree.dev/)
 ```
