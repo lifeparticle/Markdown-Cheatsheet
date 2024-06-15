@@ -8,6 +8,10 @@
 | STL          | [.stl](./solid_cube.stl)                                                | File format for 3D models                 |
 | Markdown     | [.markdown](./documentation.markdown), [.md](./documentation.md)        | Markup language for formatting text       |
 | SVG          | [.svg](./theultimatemarkdowncheatsheet-brightgreen.svg)                 | Scalable Vector Graphics file format      |
+| PNG          | [.png](./BinaryTree.png)                                                | Portable Network Graphics file format     |
+| GIF          | [.gif](./ruby.gif)                                                      | Graphics Interchange Format file          |
+| JPEG         | [.jpg](./BinaryTree.jpg), .jpeg                                         | JPEG image file format                    |
+| Text         | [.txt](./todo.txt)                                                      | Plain text file                           |
 
 ## mermaid
 
@@ -335,8 +339,39 @@ endsolid cube
 
 ## SVG
 
-<img src="./theultimatemarkdowncheatsheet-brightgreen.svg" />
+<img src="./theultimatemarkdowncheatsheet-brightgreen.svg" alt="Green button with the text 'theultimatemarkdowncheatsheet' in white letters."/>
 
 ```md
-<img src="./theultimatemarkdowncheatsheet-brightgreen.svg" />
+<img src="./theultimatemarkdowncheatsheet-brightgreen.svg" alt="Green button with the text 'theultimatemarkdowncheatsheet' in white letters."/>
+```
+
+## PNG
+
+<img src="./BinaryTree.png" alt="Logo of BinaryTree featuring a hexagonal icon."/>
+
+```md
+<img src="./BinaryTree.png" alt="Logo of BinaryTree featuring a hexagonal icon."/>
+```
+
+## GIF
+
+<img src="./ruby.gif" alt="GIF of students in a grand hall joyfully throwing their graduation caps into the air in celebration, with large banners and lit torches decorating the background."/>
+
+```md
+<img src="./ruby.gif" alt="GIF of students in a grand hall joyfully throwing their graduation caps into the air in celebration, with large banners and lit torches decorating the background."/>
+```
+
+## JPEG
+
+<img src="./BinaryTree.jpg" alt="Logo of BinaryTree featuring a hexagonal icon and the text 'BINARY TREE' in capital letters to the right of the icon."/>
+
+```md
+<img src="./BinaryTree.jpg" alt="Logo of BinaryTree featuring a hexagonal icon and the text 'BINARY TREE' in capital letters to the right of the icon."/>
+```
+
+## Text
+
+```txt
+[x] Task 1
+[] Task 2
 ```
