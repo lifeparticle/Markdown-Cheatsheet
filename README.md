@@ -298,7 +298,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</strike>
 </pre>
 
-````
+````md
 <strike>
 
 ```js
@@ -389,27 +389,23 @@ You can use <kbd>command + e </kbd> on Mac or <kbd>control + e</kbd> on Windows 
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
 
-````
+<!-- markdownlint-enable MD040 -->
+
+````md
 ```
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
 ````
-
-<!-- markdownlint-enable MD040 -->
 
 ```java
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
 
-<!-- markdownlint-disable MD040 -->
-
-````
+````md
 ```java
 public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 ```
 ````
-
-<!-- markdownlint-enable MD040 -->
 
 Refer to [this](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml) and [this](https://github.com/github-linguist/linguist/tree/master/vendor) GitHub document to find all the valid keywords.
 
@@ -433,9 +429,7 @@ index 309ee57..c995021 100644
  f
 ```
 
-<!-- markdownlint-disable MD040 -->
-
-````
+````md
 ```diff
 ## git diff a/test.txt b/test.txt
 diff --git a/a/test.txt b/b/test.txt
@@ -455,8 +449,6 @@ index 309ee57..c995021 100644
 ```
 ````
 
-<!-- markdownlint-enable MD040 -->
-
 ```diff
 - Text in Red
 + Text in Green
@@ -465,9 +457,7 @@ index 309ee57..c995021 100644
 @@ Text in Purple and bold @@
 ```
 
-<!-- markdownlint-disable MD040 -->
-
-````
+````md
 ```diff
 - Text in Red
 + Text in Green
@@ -476,8 +466,6 @@ index 309ee57..c995021 100644
 @@ Text in Purple and bold @@
 ```
 ````
-
-<!-- markdownlint-enable MD040 -->
 
 # Alignments
 
