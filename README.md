@@ -33,6 +33,7 @@
   - [Superscript](#superscript)
   - [Text Color](#text-color)
   - [Multiline](#multiline)
+  - [Emojis](#Emojis)
 - [Syntax Highlighting](#syntax-highlighting)
   - [Inline code](#inline-code)
   - [Code block](#code-block)
@@ -372,6 +373,12 @@ brown fox\
 jumps over\
 the lazy dog.
 ```
+#Emojis
+```
+:smile: :thumbsup: :heart:
+```
+:smile: :thumbsup: :heart:
+
 
 # Syntax Highlighting
 
