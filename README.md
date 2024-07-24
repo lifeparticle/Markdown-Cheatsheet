@@ -1207,7 +1207,7 @@ In issues:
 
 # Reference issues and pull requests
 
-In issuse:
+In issues:
 
 ```md
 #1
