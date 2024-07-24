@@ -1197,7 +1197,7 @@ $$
 
 # Mention people and teams
 
-In issuse:
+In issues:
 
 ```md
 @lifeparticle
