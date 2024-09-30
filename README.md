@@ -1203,7 +1203,7 @@ In issues:
 @lifeparticle
 ```
 
-[Example](https://github.com/lifeparticle)
+[Example shown in issue](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
 In markdown file:
 
@@ -1222,7 +1222,7 @@ In issues:
 #10
 ```
 
-[Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
+[Example shown in issue](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
 In markdown file:
 
@@ -1243,6 +1243,8 @@ In issues:
 `#ffffff`
 `#000000`
 ```
+
+[Example shown in issue](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
 ![image](https://github.com/user-attachments/assets/523128b8-e877-4e6f-884c-28691eaa1d8f)
 
