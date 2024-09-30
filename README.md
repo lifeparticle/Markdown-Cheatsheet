@@ -1067,7 +1067,7 @@ Windows: <kbd>control+shift+8</kbd>
 <kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ↗️ <br> </kbd>
 
 ```md
-<kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) <br> </kbd>
+<kbd> <br> [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ↗️ <br> </kbd>
 ```
 
 # Collapsible items (28 July 2023)
@@ -1203,7 +1203,15 @@ In issues:
 @lifeparticle
 ```
 
-[Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
+[Example shown in issue](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
+
+In markdown file:
+
+```md
+https://github.com/lifeparticle
+```
+
+https://github.com/lifeparticle
 
 # Reference issues and pull requests
 
@@ -1214,7 +1222,7 @@ In issues:
 #10
 ```
 
-[Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
+[Example shown in issue](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
 
 In markdown file:
 
@@ -1229,12 +1237,16 @@ https://github.com/lifeparticle/Markdown-Cheatsheet/pull/10
 
 # Color models
 
+In issues:
+
 ```md
 `#ffffff`
 `#000000`
 ```
 
-[Example](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
+[Example shown in issue](https://github.com/lifeparticle/Markdown-Cheatsheet/issues/1)
+
+![image](https://github.com/user-attachments/assets/523128b8-e877-4e6f-884c-28691eaa1d8f)
 
 # View Code
 
