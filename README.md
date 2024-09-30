@@ -1244,7 +1244,7 @@ In issues:
 `#000000`
 ```
 
-[//]: # (TODO: Add image of color models used in issue)
+![image](https://github.com/user-attachments/assets/523128b8-e877-4e6f-884c-28691eaa1d8f)
 
 # View Code
 
