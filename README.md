@@ -89,8 +89,7 @@ Markdown is a way of writing rich-text (formatted text) content using plain text
 - **2004:** [John Gruber](https://daringfireball.net/projects/markdown/) developed Markdown.
 - **2014:** [CommonMark](https://commonmark.org/) was established as a standard specification for Markdown to resolve inconsistencies and ambiguities in Markdown implementations. This initiative was spearheaded by [John MacFarlane](https://github.com/jgm) and backed by other Markdown enthusiasts to ensure a reliable and consistent specification.
 
-This guide will provide you with a comprehensive understanding of the key commands in [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/), it is a strict superset of CommonMark. You can read the full article, [The Ultimate Markdown Cheat Sheet
-](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0) on Medium.
+This guide will provide you with a comprehensive understanding of the key commands in [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/), it is a strict superset of CommonMark. You can read the full article, [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0) on Medium.
 
 # Headings
 
