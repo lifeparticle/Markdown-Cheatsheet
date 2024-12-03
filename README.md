@@ -513,7 +513,7 @@ index 309ee57..c995021 100644
 ```md
 <table>
 <tr>
-<td width="33%"">
+<td width="33%">
 The quick brown fox jumps over the lazy dog.
 </td>
 <td width="33%">
