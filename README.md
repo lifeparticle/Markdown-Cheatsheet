@@ -56,6 +56,7 @@
     - [Using dark and light mode](#using-dark-and-light-mode)
   - [Group](#group)
 - [Badges](#badges)
+- [Videos](#Videos)
 - [Lists](#lists)
   - [Ordered](#ordered)
   - [Unordered](#unordered)
@@ -994,6 +995,16 @@ Vertical images with gap
 ```
 
 ![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
+
+# Videos
+
+To embed a video in Markdown, you need to first upload the video file and then reference it inline:
+
+https://github.com/user-attachments/assets/90c624e0-f46b-47a7-8509-97585dc3688a
+
+```md
+https://github.com/user-attachments/assets/90c624e0-f46b-47a7-8509-97585dc3688a
+```
 
 # Lists
 
