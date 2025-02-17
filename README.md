@@ -31,6 +31,7 @@
   - [Boxed](#boxed)
   - [Subscript](#subscript)
   - [Superscript](#superscript)
+  - [Small Text](#small-text)
   - [Text Color](#text-color)
   - [Multiline](#multiline)
 - [Syntax Highlighting](#syntax-highlighting)
