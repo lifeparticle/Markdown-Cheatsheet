@@ -847,6 +847,12 @@ Alt text and title are optional.
 <img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
 ```
 
+<img src="./supported_file_extensions/md.svg" alt="Animated SVG of the text 'Markdown-Cheatsheet' in white letters."/>
+
+```md
+<img src="./supported_file_extensions/md.svg" alt="Animated SVG of the text 'Markdown-Cheatsheet' in white letters."/>
+```
+
 [![BinaryTree](https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png)](https://binarytree.dev/)
 
 ```md
