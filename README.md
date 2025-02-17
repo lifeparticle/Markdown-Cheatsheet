@@ -349,6 +349,10 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
 <sup><sub>The quick brown fox jumps over the lazy dog.</sub></sup>
 
+```md
+<sup><sub>The quick brown fox jumps over the lazy dog.</sub></sup>
+```
+
 ## Text Color
 
 Using [MathJax](#mathematical-expressions-19-july-2022) syntax:
