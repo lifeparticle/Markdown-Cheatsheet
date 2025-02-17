@@ -31,8 +31,8 @@
 					display: inline-block;
 					width: 0;
 					animation:
-						typewriter 3s steps(19, end) forwards,
-						blinkCursor 0.75s steps(2) 8;
+						typewriter 3s steps(19, end) infinite,
+						blinkCursor 0.75s steps(2) infinite;
 				}
 			</style>
 			<div class="container">
