@@ -350,10 +350,14 @@ Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
 
 ## Small Text
 
-<sup><sub>The quick brown fox jumps over the lazy dog.</sub></sup>
+Start <sup><sub>The quick brown fox jumps over the lazy dog.</sub></sup> End
+
+Start <sub><sup>The quick brown fox jumps over the lazy dog.</sup></sub> End
 
 ```md
-<sup><sub>The quick brown fox jumps over the lazy dog.</sub></sup>
+Start <sup><sub>The quick brown fox jumps over the lazy dog.</sub></sup> End
+
+Start <sub><sup>The quick brown fox jumps over the lazy dog.</sup></sub> End
 ```
 
 ## Text Color
