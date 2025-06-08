@@ -20,7 +20,7 @@
 For hands-on learning:
 
 > [!TIP]
-> For hands-on learning, explore the module on [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/).
+> Explore the module on [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/).
 
 - [Introduction](#introduction)
 - [Headings](#headings)
