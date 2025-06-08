@@ -205,10 +205,13 @@ _The quick brown fox jumps over the lazy dog._
 
 ```md
 **_The quick brown fox jumps over the lazy dog._**
+***The quick brown fox jumps over the lazy dog.***
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 ```
 <!-- markdownlint-disable-next-line MD049 -->
 **_The quick brown fox jumps over the lazy dog._**
+
+***The quick brown fox jumps over the lazy dog.***
 
 <strong><em>The quick brown fox jumps over the lazy dog.</em></strong>
 
